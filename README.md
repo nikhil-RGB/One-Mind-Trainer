@@ -12,6 +12,6 @@ This mod does not increase the base stats of Ishhin Ashina, and the posture reco
 
 ### How to Launch: 
 
-Download the mods.zip file and extract it's contents into a "mod" folder, put the mod folder into your main game directory, and ensure your **"modengine** is active and working correctly.
+Download the mods.zip file and extract it's contents into a "mod" folder, put the mod folder into your main game directory, and ensure your **"modengine"** is active and working correctly.
 
 
