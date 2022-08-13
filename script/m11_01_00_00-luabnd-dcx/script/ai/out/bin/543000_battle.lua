@@ -1153,8 +1153,8 @@ Goal.Parry = function (arg0, arg1, arg2, arg3)
 end
 
 Goal.ShootReaction = function (arg0, arg1)
-    arg1:ClearSubGoal()
-    arg1:AddSubGoal(GOAL_COMMON_EndureAttack, 0.1, 3100, TARGET_ENE_0, 9999, 0)
+   -- arg1:ClearSubGoal()
+   -- arg1:AddSubGoal(GOAL_COMMON_EndureAttack, 0.1, 3100, TARGET_ENE_0, 9999, 0)
     return true
     
 end
