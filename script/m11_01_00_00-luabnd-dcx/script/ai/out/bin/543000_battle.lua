@@ -937,6 +937,7 @@ Goal.Interrupt = function (arg0, arg1, arg2)
     local f47_local2 = arg1:GetRandam_Int(1, 100)
     local f47_local3 = arg1:GetSpecialEffectInactivateInterruptType(0)
     local f47_local4 = arg1:GetSpRate(TARGET_SELF)
+    local SEKIRO_HP = arg1:GetHpRate(TARGET_ENE_0)
     if arg1:IsLadderAct(TARGET_SELF) then
         return false
     end
@@ -970,11 +971,11 @@ Goal.Interrupt = function (arg0, arg1, arg2)
         end
     end 
     if arg1:IsInterupt(INTERUPT_ActivateSpecialEffect) then
-        if f47_local0==60000 then
+        if f47_local0==60000 and SEKIRO_HP>0 then
             arg2:ClearSubGoal()
             arg2:AddSubGoal(GOAL_COMMON_ComboRepeat, 10, 3032, TARGET_ENE_0, 999, 0, 0, 0, 0)
             arg2:AddSubGoal(GOAL_COMMON_ComboRepeat, 10, 3080, TARGET_ENE_0, 999, 0, 0, 0, 0)
-        elseif f47_local0==60001 then
+        elseif f47_local0==60001 and SEKIRO_HP>0 then
             arg2:ClearSubGoal()
             arg2:AddSubGoal(GOAL_COMMON_ComboRepeat, 10, 3033, TARGET_ENE_0, 999, 0, 0, 0, 0)
              
