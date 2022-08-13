@@ -4,3 +4,6 @@
 
 
 [2022.08.13 13:08:21][WARNING] Unable to find the file '<Data Root>\chr\c5400.texbnd.dcx' in the main data root directory ('C:\Games\Sekiro - Shadows Die Twice\mods') or the directory in which that one is located.
+
+
+[2022.08.13 21:03:02][WARNING] Unable to find the file '<Data Root>\chr\c5400.texbnd.dcx' in the main data root directory ('C:\Games\Sekiro - Shadows Die Twice\mods') or the directory in which that one is located.
