@@ -30,6 +30,8 @@ Goal.Activate = function (arg0, arg1, arg2)
     arg1:AddObserveSpecialEffectAttribute(TARGET_SELF, 5037)
     arg1:AddObserveSpecialEffectAttribute(TARGET_SELF, 5038)
     arg1:AddObserveSpecialEffectAttribute(TARGET_SELF, 5039)
+    arg1:AddObserveSpecialEffectAttribute(TARGET_SELF, 60000)
+    arg1:AddObserveSpecialEffectAttribute(TARGET_SELF, 60001)
     arg1:AddObserveSpecialEffectAttribute(TARGET_SELF, 3540040)
     arg1:AddObserveSpecialEffectAttribute(TARGET_ENE_0, 110111)
     arg1:AddObserveSpecialEffectAttribute(TARGET_ENE_0, 110112)
@@ -966,9 +968,17 @@ Goal.Interrupt = function (arg0, arg1, arg2)
             arg1:Replanning()
             return true
         end
-    end
+    end 
     if arg1:IsInterupt(INTERUPT_ActivateSpecialEffect) then
-        if f47_local0 == 5025 then
+        if f47_local0==60000 then
+            arg2:ClearSubGoal()
+            arg2:AddSubGoal(GOAL_COMMON_ComboRepeat, 10, 3032, TARGET_ENE_0, 999, 0, 0, 0, 0)
+            arg2:AddSubGoal(GOAL_COMMON_ComboRepeat, 10, 3080, TARGET_ENE_0, 999, 0, 0, 0, 0)
+        elseif f47_local0==60001 then
+            arg2:ClearSubGoal()
+            arg2:AddSubGoal(GOAL_COMMON_ComboRepeat, 10, 3033, TARGET_ENE_0, 999, 0, 0, 0, 0)
+             
+        elseif f47_local0 == 5025 then
             if arg1:IsFinishTimer(6) == false then
                 arg2:ClearSubGoal()
                 arg2:AddSubGoal(GOAL_COMMON_Wait, 1, TARGET_SELF, 0, 0, 0)
