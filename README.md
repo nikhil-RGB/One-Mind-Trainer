@@ -8,7 +8,7 @@ The only move used will be Ishhin Ashina's **"One Mind"**, as it is extremely di
 
 ### Description:
 This mod forces **"Shura Ishhin"** to perform his signature move **"one mind"** multiple times in a row, with intermittent posture recovery animations to give the player time to recover posture/switch prosthetics/ready themselves for the next **"One Mind"** Combo.
-This mod does not increase the base stats of Ishhin Ashina, and the posture recovery so performed does not give him any posture back, feel free to skip the deathblow if you'd like to keep practicing one-mind deflections.
+This mod aslo increases the base vitality of Ishhin Ashina, and the posture recovery so performed gives him any lost posture back, practice the perfect one-mind deflection till the very end!
 
 ### How to Launch: 
 
