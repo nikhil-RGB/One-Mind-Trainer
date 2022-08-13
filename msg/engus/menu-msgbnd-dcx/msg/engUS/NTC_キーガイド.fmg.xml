@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="100000">OK</text>
+<text id="100001">Confirm</text>
+<text id="100002">OK</text>
+<text id="100003">%null%</text>
+<text id="100004">%null%</text>
+<text id="100005">%null%</text>
+<text id="100006">%null%</text>
+<text id="100007">%null%</text>
+<text id="100008">Equip/Remove</text>
+<text id="100009">Record Remnant</text>
+<text id="100010">Record and overwrite</text>
+<text id="100011">View Remnant</text>
+<text id="100012">OK</text>
+<text id="100013">OK</text>
+<text id="100014">%null%</text>
+<text id="100015">Next</text>
+<text id="100016">%null%</text>
+<text id="100017">%null%</text>
+<text id="100018">%null%</text>
+<text id="100019">%null%</text>
+<text id="100020">&lt;?kgiconKc@33?&gt;: Next</text>
+<text id="100021">%null%</text>
+<text id="100022">%null%</text>
+<text id="100023">%null%</text>
+<text id="100024">%null%</text>
+<text id="100025">%null%</text>
+<text id="100026">%null%</text>
+<text id="100027">%null%</text>
+<text id="100028">%null%</text>
+<text id="100029">%null%</text>
+<text id="100030">&lt;?kgiconKc@25?&gt;:Next &lt;?kgiconKc@26?&gt;:Cancel</text>
+<text id="110000">Back</text>
+<text id="110001">Close</text>
+<text id="110002">Back</text>
+<text id="110003">Back</text>
+<text id="110004">Back</text>
+<text id="120000">Remove</text>
+<text id="120200">Unallocate</text>
+<text id="120300">Delete</text>
+<text id="120400">Praise</text>
+<text id="120500">Record Remnant</text>
+<text id="120501">Update message</text>
+<text id="120600">Record and overwrite</text>
+<text id="130000">Swap Display</text>
+<text id="130050">Return to Default</text>
+<text id="130100">Open the Antique Map</text>
+<text id="130200">Protect ON/OFF</text>
+<text id="130300">Scorn</text>
+<text id="130400">Toggle selection on/off</text>
+<text id="130500">Write message</text>
+<text id="130600">Overwrite with new message</text>
+<text id="140100">-10</text>
+<text id="140101">+10</text>
+<text id="160010">Back</text>
+<text id="160011">%null%</text>
+<text id="160012">%null%</text>
+<text id="160013">%null%</text>
+<text id="160014">%null%</text>
+<text id="160015">%null%</text>
+<text id="160016">%null%</text>
+<text id="160017">%null%</text>
+<text id="160018">%null%</text>
+<text id="160019">%null%</text>
+<text id="160020">Praise</text>
+<text id="160021">Scorn</text>
+<text id="200010">Scroll</text>
+<text id="400003">Delete</text>
+</entries>
+</fmg>

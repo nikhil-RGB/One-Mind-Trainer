@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">OK</text>
+<text id="2">CANCEL</text>
+<text id="3">YES</text>
+<text id="4">NO</text>
+<text id="15">Retry</text>
+<text id="16">Continue</text>
+<text id="17">Return to Title Menu</text>
+<text id="11020">Select amount to use</text>
+<text id="12300">Select amount to purchase</text>
+<text id="12320">Select amount to exchange</text>
+<text id="12400">Select amount to sell</text>
+<text id="40200">Not enough sen </text>
+<text id="40201">Not enough required items</text>
+<text id="40202">Insufficient funds and required items in your possession.</text>
+<text id="40300">This will restore default settings.
+Are you sure?</text>
+<text id="40500">This will restore all default settings.
+Are you sure?</text>
+<text id="102000">Use &lt;?itemName?&gt;?</text>
+<text id="102001">Sen in possession will exceed the maximum limit.
+Sen in excess of the maximum limit will be lost.  Continue anyway?</text>
+<text id="110500">This will save the game and return to the Title menu.
+
+Are you sure?</text>
+<text id="110501">Quit game and return to title menu?</text>
+<text id="111100">Settings have been changed.
+Settings will be reverted in &lt;?remainingSec?&gt; seconds.
+Apply current settings?</text>
+<text id="111101">Apply current settings?</text>
+<text id="111102">Some settings will not be applied until you return to the Title Menu</text>
+<text id="111103">This setting will be applied upon rebooting the game.</text>
+<text id="111104">Settings have been changed.
+Settings will be reverted in &lt;?remainingSec?&gt; seconds
+Apply current settings?</text>
+<text id="111105">Some settings will not be applied until you return to the Title Menu</text>
+<text id="111106">HDR has been turned OFF.</text>
+<text id="111107">HDR has been turned ON.</text>
+<text id="210000">Cannot Travel to a Sculptor's Idol 
+you're currently communing with.</text>
+<text id="210001">This Sculptor's Idol is unavailable 
+until it is communed with again.</text>
+<text id="220000">Start battle with &lt;?retryBossName?&gt;?</text>
+<text id="230000">Purchase &lt;?itemName?&gt;
+for &lt;?demandSoul?&gt; sen?</text>
+<text id="230001">%null%</text>
+<text id="230002">%null%</text>
+<text id="230003">%null%</text>
+<text id="230004">%null%</text>
+<text id="230005">%null%</text>
+<text id="230006">%null%</text>
+<text id="230007">%null%</text>
+<text id="230008">%null%</text>
+<text id="230009">%null%</text>
+<text id="230010">Items exceeding the maximum possession limit have been stored</text>
+<text id="230011">%null%</text>
+<text id="230012">%null%</text>
+<text id="230013">%null%</text>
+<text id="230014">%null%</text>
+<text id="230015">%null%</text>
+<text id="230016">%null%</text>
+<text id="230017">%null%</text>
+<text id="230018">%null%</text>
+<text id="230019">%null%</text>
+<text id="230020">Cannot purchase as you are at maximum storage
+and inventory limits</text>
+<text id="230100">Unable to purchase as item is sold out</text>
+<text id="232000">Trade &lt;?demandScale?&gt; &lt;?gdsparam@10000?&gt;(s) 
+for &lt;?itemName?&gt;?</text>
+<text id="232001">%null%</text>
+<text id="232002">%null%</text>
+<text id="232003">%null%</text>
+<text id="232004">%null%</text>
+<text id="232005">%null%</text>
+<text id="232006">%null%</text>
+<text id="232007">%null%</text>
+<text id="232008">%null%</text>
+<text id="232009">%null%</text>
+<text id="232010">Items exceeding the maximum possession limit have been stored</text>
+<text id="232011">%null%</text>
+<text id="232012">%null%</text>
+<text id="232013">%null%</text>
+<text id="232014">%null%</text>
+<text id="232015">%null%</text>
+<text id="232016">%null%</text>
+<text id="232017">%null%</text>
+<text id="232018">%null%</text>
+<text id="232019">%null%</text>
+<text id="232020">Unable to exchange as doing so will exceed maximum 
+possession and storage limits</text>
+<text id="232100">Unable to exchange as item is sold out</text>
+<text id="240000">Sell &lt;?itemName?&gt; for &lt;?sellSouls?&gt; sen?</text>
+<text id="240001">Equipped items cannot be sold</text>
+<text id="250000">Create &lt;?itemName?&gt;?</text>
+<text id="260000">Upgrade &lt;?itemName?&gt;?</text>
+<text id="260001">%null%</text>
+<text id="260002">%null%</text>
+<text id="260003">%null%</text>
+<text id="260004">%null%</text>
+<text id="260005">%null%</text>
+<text id="260006">%null%</text>
+<text id="260007">%null%</text>
+<text id="260008">%null%</text>
+<text id="260009">%null%</text>
+<text id="260010">Tier 3 information is now unlocked.</text>
+<text id="260011">Tier 4 information is now unlocked.</text>
+<text id="260012">Tier 5 information is now unlocked.</text>
+<text id="260013">Final tier information is now unlocked.</text>
+<text id="260110">All prerequisites for this upgrade are not yet complete.</text>
+<text id="260111">You haven't reached the required upgrade tier 
+to see this information.</text>
+<text id="260112">No compatible Prosthetic Tool in your possession.</text>
+<text id="270000">Acquire &lt;?itemName?&gt;?</text>
+<text id="270100">Insufficient skill points.</text>
+<text id="270101">The required skill has not yet been learned.</text>
+<text id="270102">Prerequisites to view Skill information not yet met</text>
+<text id="270103">This Skill information cannot be viewed 
+until the prerequisite Skill(s) are acquired</text>
+<text id="280000">The binding for this cannot be removed.</text>
+<text id="280001">This will restore all default settings.
+Are you sure?</text>
+<text id="280002">There are overlapping settings.
+Please confirm settings.</text>
+<text id="280003">There are overlapping settings.
+Finish set up without saving settings?</text>
+<text id="280004">Settings discarded as the primary device has been changed.</text>
+<text id="311000">Are you sure you want to delete this Remnant?</text>
+<text id="311001">Praise this Remnant?</text>
+<text id="311002">Scorn this Remnant?</text>
+<text id="321000">Create a Remnant with this message?</text>
+<text id="321001">Discard the currently attached message?</text>
+<text id="321002">%null%</text>
+<text id="321003">%null%</text>
+<text id="321004">%null%</text>
+<text id="321005">%null%</text>
+<text id="321006">%null%</text>
+<text id="321007">%null%</text>
+<text id="321008">%null%</text>
+<text id="321009">%null%</text>
+<text id="321010">Remnant Menu not available</text>
+<text id="321011">Remnant Menu not available</text>
+<text id="322000">Are you sure you want to delete this Remnant?</text>
+<text id="322001">Record Remnant?</text>
+<text id="322002">Delete current Remnant and start recording a new one?</text>
+<text id="322003">Delete current Remnant and compose a new Remnant message?</text>
+<text id="322004">Use message from previous Remnant?</text>
+<text id="323000">Finish recording Remnant?</text>
+<text id="323001">Discard recorded Remnant?</text>
+<text id="401701">&lt;?sysmsg@401701?&gt;</text>
+<text id="404020">When HDR is ON, Brightness can only be adjusted  
+from the in-game Pause Menu.</text>
+<text id="406011">Start with selected profile?</text>
+<text id="406012">Delete the selected profile
+and start a new game?</text>
+<text id="406013">This will delete the selected profile.
+Are you sure?</text>
+<text id="450000">Start playthrough #&lt;?nextLoopCount?&gt; now?
+
+If you choose not to start playthrough #&lt;?nextLoopCount?&gt; now, 
+you may do so by accessing the large Sculptor's Idol in the 
+Dilapidated Temple at any time.</text>
+<text id="450001">You will not be able to return to the current playthrough #&lt;?loopCount?&gt;
+upon starting playthrough #&lt;?nextLoopCount?&gt;.
+Are you sure you want to start playthrough #&lt;?nextLoopCount?&gt;?</text>
+</entries>
+</fmg>

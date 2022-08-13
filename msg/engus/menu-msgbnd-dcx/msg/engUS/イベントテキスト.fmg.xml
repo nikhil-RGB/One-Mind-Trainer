@@ -1,0 +1,3906 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">WWWWWWWWWWWWWWWWWWWWwwwwwWWWWWwwwwwWWWWW</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="4">%null%</text>
+<text id="5">%null%</text>
+<text id="6">%null%</text>
+<text id="7">%null%</text>
+<text id="8">%null%</text>
+<text id="9">%null%</text>
+<text id="10">WWWWWWWWWWWWWWWWWWWWwwwwwWWWWWwwwwwWWWWW
+WWWWWWWWWWWWWWWWWWWWAAAAABBBBBCCCCCDDDDDD
+WWWWWWWWWWWWWWWWWWWWAAAAABBBBBCCCCCDDDDDD
+WWWWWWWWWWWWWWWWWWWWAAAAABBBBBCCCCCDDDDDD</text>
+<text id="11">%null%</text>
+<text id="12">%null%</text>
+<text id="13">%null%</text>
+<text id="14">%null%</text>
+<text id="15">%null%</text>
+<text id="16">%null%</text>
+<text id="17">%null%</text>
+<text id="18">%null%</text>
+<text id="19">%null%</text>
+<text id="20">&lt;?kgiconKc@0?&gt;:歩行シフト/低速水泳シフト</text>
+<text id="21">&lt;?kgiconKc@1?&gt;:走行前/（水上・水中）水泳　前</text>
+<text id="22">&lt;?kgiconKc@2?&gt;:走行前/（水上・水中）水泳　後</text>
+<text id="23">&lt;?kgiconKc@3?&gt;:走行前/（水上・水中）水泳　左</text>
+<text id="24">&lt;?kgiconKc@4?&gt;:走行前/（水上・水中）水泳　右</text>
+<text id="25">&lt;?kgiconKc@5?&gt;:ダッシュ/裏回り/（水上・水中）潜る</text>
+<text id="26">&lt;?kgiconKc@6?&gt;:ジャンプ/蹴り/（水中）浮上</text>
+<text id="27">&lt;?kgiconKc@7?&gt;:しゃがみ/しゃがみ解除</text>
+<text id="28">&lt;?kgiconKc@8?&gt;:カメラ上/ロック対象変更　上</text>
+<text id="29">&lt;?kgiconKc@9?&gt;:カメラ下/ロック対象変更　下</text>
+<text id="30">&lt;?kgiconKc@10?&gt;:カメラ左/ロック対象変更　左</text>
+<text id="31">&lt;?kgiconKc@11?&gt;:カメラ右/ロック対象変更　右</text>
+<text id="32">&lt;?kgiconKc@12?&gt;:カメラリセット/ロックオン</text>
+<text id="33">&lt;?kgiconKc@13?&gt;:道具切替</text>
+<text id="34">&lt;?kgiconKc@14?&gt;:道具切替（逆送り）</text>
+<text id="35">&lt;?kgiconKc@15?&gt;:義手忍具切替</text>
+<text id="36">&lt;?kgiconKc@16?&gt;:通常攻撃/忍殺</text>
+<text id="37">&lt;?kgiconKc@17?&gt;:義手忍具アクション/（水中）急加速</text>
+<text id="38">&lt;?kgiconKc@18?&gt;:ガード</text>
+<text id="39">&lt;?kgiconKc@19?&gt;:ワイヤー</text>
+<text id="40">&lt;?kgiconKc@20?&gt;:会話/調べる/壁張り付き/ぶら下がり/空中ぶら下がり掴み</text>
+<text id="41">&lt;?kgiconKc@21?&gt;:道具使用/ドロップ引き寄せ</text>
+<text id="42">&lt;?kgiconKc@22?&gt;:盗み聞き</text>
+<text id="43">&lt;?kgiconKc@16?&gt;:復活の術発動</text>
+<text id="44">&lt;?kgiconKc@18?&gt;:復活の術中断</text>
+<text id="45">&lt;?kgiconKc@25?&gt;:会話送り</text>
+<text id="46">&lt;?kgiconKc@26?&gt;:会話中断</text>
+<text id="47">&lt;?kgiconKc@27?&gt;:メニュー開く</text>
+<text id="48">&lt;?kgiconKc@28?&gt;:メニュー閉じる</text>
+<text id="49">&lt;?kgiconKc@29?&gt;:カーソル移動　上</text>
+<text id="50">&lt;?kgiconKc@30?&gt;:カーソル移動　下</text>
+<text id="51">&lt;?kgiconKc@31?&gt;:カーソル移動　右</text>
+<text id="52">&lt;?kgiconKc@32?&gt;:カーソル移動　左</text>
+<text id="53">&lt;?kgiconKc@33?&gt;:決定</text>
+<text id="54">&lt;?kgiconKc@34?&gt;:キャンセル</text>
+<text id="55">&lt;?kgiconKc@35?&gt;:メニュータブの切り替え　左</text>
+<text id="56">&lt;?kgiconKc@36?&gt;:メニュータブの切り替え　右</text>
+<text id="57">&lt;?kgiconKc@37?&gt;:ページ送り　上</text>
+<text id="58">&lt;?kgiconKc@38?&gt;:ページ送り　下</text>
+<text id="59">&lt;?kgiconKc@39?&gt;:ウィンドウスクロール　上</text>
+<text id="60">&lt;?kgiconKc@40?&gt;:ウィンドウスクロール　下</text>
+<text id="61">&lt;?kgiconKc@41?&gt;:ソート</text>
+<text id="62">&lt;?kgiconKc@42?&gt;:補助メニュー表示</text>
+<text id="63">%null%</text>
+<text id="64">%null%</text>
+<text id="65">%null%</text>
+<text id="66">%null%</text>
+<text id="67">%null%</text>
+<text id="68">%null%</text>
+<text id="69">%null%</text>
+<text id="70">&lt;?kgMove?&gt;:移動タグ</text>
+<text id="71">&lt;?kgControlCamera?&gt;:カメラ操作タグ</text>
+<text id="72">&lt;?kgToggleItems?&gt;:道具切替タグ</text>
+<text id="73">%null%</text>
+<text id="74">%null%</text>
+<text id="75">%null%</text>
+<text id="76">%null%</text>
+<text id="77">%null%</text>
+<text id="78">%null%</text>
+<text id="79">%null%</text>
+<text id="80">&lt;?kgicon@2201?&gt;</text>
+<text id="81">&lt;?kgicon@2202?&gt;</text>
+<text id="82">&lt;?kgicon@2203?&gt;</text>
+<text id="83">&lt;?kgicon@2205?&gt;</text>
+<text id="2290">&lt;?kgicon@2290?&gt;</text>
+<text id="2291">&lt;?kgicon@2291?&gt;</text>
+<text id="2292">&lt;?kgicon@2292?&gt;</text>
+<text id="2293">&lt;?kgicon@2293?&gt;</text>
+<text id="2294">&lt;?kgicon@2294?&gt;</text>
+<text id="2295">&lt;?kgicon@2295?&gt;</text>
+<text id="2296">&lt;?kgicon@2296?&gt;</text>
+<text id="2297">&lt;?kgicon@2297?&gt;</text>
+<text id="2298">&lt;?kgicon@2298?&gt;</text>
+<text id="2299">%null%</text>
+<text id="2300">&lt;?kgicon@2300?&gt;</text>
+<text id="2301">&lt;?kgicon@2301?&gt;</text>
+<text id="2302">%null%</text>
+<text id="2303">%null%</text>
+<text id="2304">%null%</text>
+<text id="2305">%null%</text>
+<text id="2306">%null%</text>
+<text id="2307">%null%</text>
+<text id="2308">%null%</text>
+<text id="2309">%null%</text>
+<text id="2310">&lt;?kgicon@2310?&gt;</text>
+<text id="2311">&lt;?kgicon@2311?&gt;</text>
+<text id="2312">&lt;?kgicon@2312?&gt;</text>
+<text id="2313">%null%</text>
+<text id="2314">%null%</text>
+<text id="2315">%null%</text>
+<text id="2316">%null%</text>
+<text id="2317">%null%</text>
+<text id="2318">%null%</text>
+<text id="2319">%null%</text>
+<text id="2320">&lt;?kgicon@2320?&gt;</text>
+<text id="2321">&lt;?kgicon@2321?&gt;</text>
+<text id="2322">&lt;?kgicon@2322?&gt;</text>
+<text id="2323">&lt;?kgicon@2323?&gt;</text>
+<text id="2324">&lt;?kgicon@2324?&gt;</text>
+<text id="2400">&lt;?kgicon@2400?&gt;</text>
+<text id="2401">&lt;?kgicon@2401?&gt;</text>
+<text id="2402">&lt;?kgicon@2402?&gt;</text>
+<text id="2403">&lt;?kgicon@2403?&gt;</text>
+<text id="2404">&lt;?kgicon@2404?&gt;</text>
+<text id="2405">&lt;?kgicon@2405?&gt;</text>
+<text id="2406">&lt;?kgicon@2406?&gt;</text>
+<text id="2407">&lt;?kgicon@2407?&gt;</text>
+<text id="2408">&lt;?kgicon@2408?&gt;</text>
+<text id="2409">&lt;?kgicon@2409?&gt;</text>
+<text id="2410">&lt;?kgicon@2410?&gt;</text>
+<text id="2411">&lt;?kgicon@2411?&gt;</text>
+<text id="2412">&lt;?kgicon@2412?&gt;</text>
+<text id="2413">&lt;?kgicon@2413?&gt;</text>
+<text id="2414">&lt;?kgicon@2414?&gt;</text>
+<text id="2415">&lt;?kgicon@2415?&gt;</text>
+<text id="2416">&lt;?kgicon@2416?&gt;</text>
+<text id="2417">&lt;?kgicon@2417?&gt;</text>
+<text id="2418">&lt;?kgicon@2418?&gt;</text>
+<text id="2419">&lt;?kgicon@2419?&gt;</text>
+<text id="2420">&lt;?kgicon@2420?&gt;</text>
+<text id="2421">&lt;?kgicon@2421?&gt;</text>
+<text id="2422">&lt;?kgicon@2422?&gt;</text>
+<text id="2450">&lt;?kgicon@2450?&gt;</text>
+<text id="2451">&lt;?kgicon@2451?&gt;</text>
+<text id="2452">&lt;?kgicon@2452?&gt;</text>
+<text id="2453">&lt;?kgicon@2453?&gt;</text>
+<text id="2500">&lt;?kgicon@2500?&gt;</text>
+<text id="2501">&lt;?kgicon@2501?&gt;</text>
+<text id="2502">&lt;?kgicon@2502?&gt;</text>
+<text id="2503">&lt;?kgicon@2503?&gt;</text>
+<text id="2504">&lt;?kgicon@2504?&gt;</text>
+<text id="2505">&lt;?kgicon@2505?&gt;</text>
+<text id="2506">&lt;?kgicon@2506?&gt;</text>
+<text id="2507">&lt;?kgicon@2507?&gt;</text>
+<text id="2508">&lt;?kgicon@2508?&gt;</text>
+<text id="2509">&lt;?kgicon@2509?&gt;</text>
+<text id="2510">&lt;?kgicon@2510?&gt;</text>
+<text id="2511">&lt;?kgicon@2511?&gt;</text>
+<text id="2512">&lt;?kgicon@2512?&gt;</text>
+<text id="2513">&lt;?kgicon@2513?&gt;</text>
+<text id="2514">&lt;?kgicon@2514?&gt;</text>
+<text id="2515">&lt;?kgicon@2515?&gt;</text>
+<text id="2516">&lt;?kgicon@2516?&gt;</text>
+<text id="2517">&lt;?kgicon@2517?&gt;</text>
+<text id="2518">&lt;?kgicon@2518?&gt;</text>
+<text id="2519">&lt;?kgicon@2519?&gt;</text>
+<text id="2520">&lt;?kgicon@2520?&gt;</text>
+<text id="2521">&lt;?kgicon@2521?&gt;</text>
+<text id="2522">&lt;?kgicon@2522?&gt;</text>
+<text id="2523">&lt;?kgicon@2523?&gt;</text>
+<text id="2524">&lt;?kgicon@2524?&gt;</text>
+<text id="2525">&lt;?kgicon@2525?&gt;</text>
+<text id="2526">&lt;?kgicon@2526?&gt;</text>
+<text id="2527">&lt;?kgicon@2527?&gt;</text>
+<text id="2528">&lt;?kgicon@2528?&gt;</text>
+<text id="2529">&lt;?kgicon@2529?&gt;</text>
+<text id="2530">&lt;?kgicon@2530?&gt;</text>
+<text id="2531">&lt;?kgicon@2531?&gt;</text>
+<text id="2532">&lt;?kgicon@2532?&gt;</text>
+<text id="2533">&lt;?kgicon@2533?&gt;</text>
+<text id="2534">&lt;?kgicon@2534?&gt;</text>
+<text id="2535">&lt;?kgicon@2535?&gt;</text>
+<text id="2610">&lt;?kgicon@2610?&gt;</text>
+<text id="2611">&lt;?kgicon@2611?&gt;</text>
+<text id="2612">&lt;?kgicon@2612?&gt;</text>
+<text id="2613">&lt;?kgicon@2613?&gt;</text>
+<text id="2614">&lt;?kgicon@2614?&gt;</text>
+<text id="2615">&lt;?kgicon@2615?&gt;</text>
+<text id="2616">&lt;?kgicon@2616?&gt;</text>
+<text id="2617">&lt;?kgicon@2617?&gt;</text>
+<text id="2618">&lt;?kgicon@2618?&gt;</text>
+<text id="2619">&lt;?kgicon@2619?&gt;</text>
+<text id="2620">&lt;?kgicon@2620?&gt;</text>
+<text id="2621">&lt;?kgicon@2621?&gt;</text>
+<text id="2622">&lt;?kgicon@2622?&gt;</text>
+<text id="2623">&lt;?kgicon@2623?&gt;</text>
+<text id="2624">&lt;?kgicon@2624?&gt;</text>
+<text id="2625">&lt;?kgicon@2625?&gt;</text>
+<text id="70000">Loaded Shuriken (after throwing)</text>
+<text id="71000">Shinobi Firecrackers (after throwing)</text>
+<text id="78000">Loaded Spear (after thrust/cleave)</text>
+<text id="83000">Loaded Axe (after initial strike)</text>
+<text id="84000">Mist Raven (after activating)</text>
+<text id="88000">Loaded Spear (after dragging)</text>
+<text id="96000">Loaded Umbrella (while guarding)
+The Loaded Umbrella stores energy by
+blocking enemy projectiles, then
+discharges it. </text>
+<text id="99000">Finger Whistle (after whistling)
+Causes a whistling sound at the target location.</text>
+<text id="102000">Flame Vent (after initial blast)</text>
+<text id="107000">Divine Abduction (after Gathering Vortex)</text>
+<text id="10010103">Pick Up Item</text>
+<text id="10010104">%null%</text>
+<text id="10010105">%null%</text>
+<text id="10010106">%null%</text>
+<text id="10010107">Pick Up Item</text>
+<text id="10010108">%null%</text>
+<text id="10010109">%null%</text>
+<text id="10010110">OK</text>
+<text id="10010111">%null%</text>
+<text id="10010112">%null%</text>
+<text id="10010113">%null%</text>
+<text id="10010114">%null%</text>
+<text id="10010115">%null%</text>
+<text id="10010116">%null%</text>
+<text id="10010117">%null%</text>
+<text id="10010118">%null%</text>
+<text id="10010119">%null%</text>
+<text id="10010120">Inspect</text>
+<text id="10010121">Inspect Offering Box</text>
+<text id="10010122">Go to Halls of Illusion</text>
+<text id="10010123">Leave Halls of Illusion</text>
+<text id="10010124">%null%</text>
+<text id="10010125">%null%</text>
+<text id="10010126">%null%</text>
+<text id="10010127">%null%</text>
+<text id="10010128">%null%</text>
+<text id="10010129">%null%</text>
+<text id="10010130">Pray</text>
+<text id="10010131">Pray</text>
+<text id="10010132">%null%</text>
+<text id="10010133">%null%</text>
+<text id="10010134">%null%</text>
+<text id="10010135">%null%</text>
+<text id="10010136">%null%</text>
+<text id="10010137">%null%</text>
+<text id="10010138">%null%</text>
+<text id="10010139">%null%</text>
+<text id="10010140">Read</text>
+<text id="10010141">%null%</text>
+<text id="10010142">%null%</text>
+<text id="10010143">%null%</text>
+<text id="10010144">%null%</text>
+<text id="10010145">%null%</text>
+<text id="10010146">%null%</text>
+<text id="10010147">%null%</text>
+<text id="10010148">%null%</text>
+<text id="10010149">%null%</text>
+<text id="10010150">Gatehouse Key used</text>
+<text id="10010151">Hidden Temple Key used</text>
+<text id="10010152">Secret Passage Key used</text>
+<text id="10010153">Gun Fort Shrine Key used</text>
+<text id="10010154">%null%</text>
+<text id="10010155">%null%</text>
+<text id="10010156">%null%</text>
+<text id="10010157">%null%</text>
+<text id="10010158">%null%</text>
+<text id="10010159">%null%</text>
+<text id="10010160">%null%</text>
+<text id="10010161">Does not open from this side.</text>
+<text id="10010162">Locked.</text>
+<text id="10010163">The gate is firmly sealed shut.</text>
+<text id="10010164">Device not currently operable.</text>
+<text id="10010182">Commune with Sculptor's Idol</text>
+<text id="10010183">Commune with Sculptor's Idol</text>
+<text id="10010184">%null%</text>
+<text id="10010185">%null%</text>
+<text id="10010186">%null%</text>
+<text id="10010187">%null%</text>
+<text id="10010188">%null%</text>
+<text id="10010189">%null%</text>
+<text id="10010190">Kneel before Divine Heir</text>
+<text id="10010191">Touch Remnant</text>
+<text id="10010192">%null%</text>
+<text id="10010193">%null%</text>
+<text id="10010194">%null%</text>
+<text id="10010195">%null%</text>
+<text id="10010196">%null%</text>
+<text id="10010197">%null%</text>
+<text id="10010198">%null%</text>
+<text id="10010199">%null%</text>
+<text id="10010200">Talk</text>
+<text id="10010250">Eavesdrop</text>
+<text id="10010251">%null%</text>
+<text id="10010252">%null%</text>
+<text id="10010253">%null%</text>
+<text id="10010254">%null%</text>
+<text id="10010255">%null%</text>
+<text id="10010256">%null%</text>
+<text id="10010257">%null%</text>
+<text id="10010258">%null%</text>
+<text id="10010259">%null%</text>
+<text id="10010260">Listen to Remnant</text>
+<text id="10010310">&lt;?kgiconKc@20?&gt;: Hug wall</text>
+<text id="10010311">&lt;?kgiconKc@20?&gt;: Stop hugging wall</text>
+<text id="10010312">%null%</text>
+<text id="10010313">%null%</text>
+<text id="10010314">%null%</text>
+<text id="10010315">%null%</text>
+<text id="10010316">%null%</text>
+<text id="10010317">%null%</text>
+<text id="10010318">%null%</text>
+<text id="10010319">%null%</text>
+<text id="10010320">&lt;?kgiconKc@20?&gt;: Ledge Hang</text>
+<text id="10010321">&lt;?kgiconKc@20?&gt;: Climb</text>
+<text id="10010322">&lt;?kgiconKc@5?&gt;: Drop down</text>
+<text id="10010323">%null%</text>
+<text id="10010324">%null%</text>
+<text id="10010325">%null%</text>
+<text id="10010326">%null%</text>
+<text id="10010327">%null%</text>
+<text id="10010328">%null%</text>
+<text id="10010329">%null%</text>
+<text id="10010330">&lt;?kgiconKc@17?&gt;: Dive</text>
+<text id="10010331">%null%</text>
+<text id="10010332">%null%</text>
+<text id="10010333">%null%</text>
+<text id="10010334">%null%</text>
+<text id="10010335">%null%</text>
+<text id="10010336">%null%</text>
+<text id="10010337">%null%</text>
+<text id="10010338">%null%</text>
+<text id="10010339">%null%</text>
+<text id="10010340">&lt;?kgiconKc@5?&gt;: Underwater Dash</text>
+<text id="10010341">&lt;?kgiconKc@19?&gt;: Swim Up</text>
+<text id="10010342">&lt;?kgiconKc@17?&gt;: Swim Down</text>
+<text id="10010343">&lt;?kgiconKc@19?&gt;: Swim Up</text>
+<text id="10010390">&lt;?kgiconKc@16?&gt;: Resurrect</text>
+<text id="10010391">&lt;?kgiconKc@18?&gt;: Die</text>
+<text id="10010392">%null%</text>
+<text id="10010393">%null%</text>
+<text id="10010394">%null%</text>
+<text id="10010395">%null%</text>
+<text id="10010396">%null%</text>
+<text id="10010397">%null%</text>
+<text id="10010398">%null%</text>
+<text id="10010399">%null%</text>
+<text id="10010400">Open</text>
+<text id="10010401">%null%</text>
+<text id="10010402">%null%</text>
+<text id="10010403">%null%</text>
+<text id="10010404">%null%</text>
+<text id="10010405">%null%</text>
+<text id="10010406">%null%</text>
+<text id="10010407">%null%</text>
+<text id="10010408">%null%</text>
+<text id="10010409">%null%</text>
+<text id="10010410">Shift Tatami Aside</text>
+<text id="10010411">%null%</text>
+<text id="10010412">%null%</text>
+<text id="10010413">%null%</text>
+<text id="10010414">%null%</text>
+<text id="10010415">%null%</text>
+<text id="10010416">%null%</text>
+<text id="10010417">%null%</text>
+<text id="10010418">%null%</text>
+<text id="10010419">%null%</text>
+<text id="10010420">Open Chest</text>
+<text id="10010500">Operate Mechanism</text>
+<text id="10010501">Operate Mechanism</text>
+<text id="10010502">%null%</text>
+<text id="10010503">%null%</text>
+<text id="10010504">%null%</text>
+<text id="10010505">%null%</text>
+<text id="10010506">%null%</text>
+<text id="10010507">%null%</text>
+<text id="10010508">%null%</text>
+<text id="10010509">%null%</text>
+<text id="10010510">Ring Bell</text>
+<text id="10010511">Ring Bell</text>
+<text id="10010512">%null%</text>
+<text id="10010513">%null%</text>
+<text id="10010514">%null%</text>
+<text id="10010515">%null%</text>
+<text id="10010516">%null%</text>
+<text id="10010517">%null%</text>
+<text id="10010518">%null%</text>
+<text id="10010519">%null%</text>
+<text id="10010520">Enter Palanquin</text>
+<text id="10010521">Leave Palanquin</text>
+<text id="10010522">%null%</text>
+<text id="10010523">%null%</text>
+<text id="10010524">%null%</text>
+<text id="10010525">%null%</text>
+<text id="10010526">%null%</text>
+<text id="10010527">%null%</text>
+<text id="10010528">%null%</text>
+<text id="10010529">%null%</text>
+<text id="10010530">Fly Kite</text>
+<text id="10010531">Let Go</text>
+<text id="10010532">%null%</text>
+<text id="10010533">%null%</text>
+<text id="10010534">%null%</text>
+<text id="10010535">%null%</text>
+<text id="10010536">%null%</text>
+<text id="10010537">%null%</text>
+<text id="10010538">%null%</text>
+<text id="10010539">%null%</text>
+<text id="10010540">Use Rotating Door</text>
+<text id="10010541">Use Rotating Door</text>
+<text id="10010542">Sealed from the other side</text>
+<text id="10010543">%null%</text>
+<text id="10010544">%null%</text>
+<text id="10010545">%null%</text>
+<text id="10010546">%null%</text>
+<text id="10010547">%null%</text>
+<text id="10010548">%null%</text>
+<text id="10010549">%null%</text>
+<text id="10010550">Pray</text>
+<text id="10010551">Travel to Fountainhead Palace</text>
+<text id="10010552">Don't Travel to Palace</text>
+<text id="10010553">%null%</text>
+<text id="10010554">%null%</text>
+<text id="10010555">%null%</text>
+<text id="10010556">%null%</text>
+<text id="10010557">%null%</text>
+<text id="10010558">%null%</text>
+<text id="10010559">%null%</text>
+<text id="10010560">Pray</text>
+<text id="10010561">The shrine maiden sleeps soundly</text>
+<text id="10010562">%null%</text>
+<text id="10010563">%null%</text>
+<text id="10010564">%null%</text>
+<text id="10010565">%null%</text>
+<text id="10010566">%null%</text>
+<text id="10010567">%null%</text>
+<text id="10010568">%null%</text>
+<text id="10010569">%null%</text>
+<text id="10010570">Offer the &lt;?gdsparam@2503?&gt;</text>
+<text id="10010571">You have nothing to offer</text>
+<text id="10010572">%null%</text>
+<text id="10010573">%null%</text>
+<text id="10010574">%null%</text>
+<text id="10010575">%null%</text>
+<text id="10010576">%null%</text>
+<text id="10010577">%null%</text>
+<text id="10010578">%null%</text>
+<text id="10010579">%null%</text>
+<text id="10010580">Examine incense burner</text>
+<text id="10010581">Burn incense</text>
+<text id="10010582">%null%</text>
+<text id="10010583">%null%</text>
+<text id="10010584">%null%</text>
+<text id="10010585">%null%</text>
+<text id="10010586">%null%</text>
+<text id="10010587">%null%</text>
+<text id="10010588">%null%</text>
+<text id="10010589">%null%</text>
+<text id="10010590">Stop Training</text>
+<text id="10010591">%null%</text>
+<text id="10010592">%null%</text>
+<text id="10010593">%null%</text>
+<text id="10010594">%null%</text>
+<text id="10010595">%null%</text>
+<text id="10010596">%null%</text>
+<text id="10010597">%null%</text>
+<text id="10010598">%null%</text>
+<text id="10010599">%null%</text>
+<text id="10010600">&lt;?kgiconKc@44?&gt;: Stop Recording</text>
+<text id="10010700">This appears to be the escape route.
+Call the Divine Heir with the reed whistle?</text>
+<text id="10010713">Installation of this game is currently incomplete, 
+so you are unable to progress further.</text>
+<text id="10010714">%null%</text>
+<text id="10010715">%null%</text>
+<text id="10010716">%null%</text>
+<text id="10010717">%null%</text>
+<text id="10010718">%null%</text>
+<text id="10010719">%null%</text>
+<text id="10010720">Select destination</text>
+<text id="10010768">&lt;?null?&gt;</text>
+<text id="10010769">%null%</text>
+<text id="10010770">Burn</text>
+<text id="10010771">Poison</text>
+<text id="10010772">Terror</text>
+<text id="10010773">%null%</text>
+<text id="10010774">%null%</text>
+<text id="10010775">%null%</text>
+<text id="10010776">Enfeebled</text>
+<text id="10010777">Shock</text>
+<text id="10010778">%null%</text>
+<text id="10010779">%null%</text>
+<text id="10010780">You need to rest in order to select Recovery Tools.
+Do you want to rest?</text>
+<text id="10010781">%null%</text>
+<text id="10010782">%null%</text>
+<text id="10010783">%null%</text>
+<text id="10010784">%null%</text>
+<text id="10010785">%null%</text>
+<text id="10010786">%null%</text>
+<text id="10010787">%null%</text>
+<text id="10010788">%null%</text>
+<text id="10010789">%null%</text>
+<text id="10010790">Danger</text>
+<text id="10010791">%null%</text>
+<text id="10010792">%null%</text>
+<text id="10010793">%null%</text>
+<text id="10010794">%null%</text>
+<text id="10010795">%null%</text>
+<text id="10010796">%null%</text>
+<text id="10010797">%null%</text>
+<text id="10010798">%null%</text>
+<text id="10010799">%null%</text>
+<text id="10010800">The box is currently empty</text>
+<text id="10010900">SHINOBI EXECUTION</text>
+<text id="10010901">SCULPTOR'S IDOL FOUND</text>
+<text id="10010902">SKILL ISSUE</text>
+<text id="10010903">IMMORTALITY SEVERED</text>
+<text id="10010950">GRACIOUS GIFT OF TEARS</text>
+<text id="10010951">SINISTER BURDEN</text>
+<text id="10010952">BURDEN DISPELLED</text>
+<text id="10010953">UNSEEN AID</text>
+<text id="10010954">DRAGONROT HEALED</text>
+<text id="10010955">INNER REFLECTION CONQUERED</text>
+<text id="10011951">Dilapidated Temple Idol</text>
+<text id="10011952">Last Communed Idol</text>
+<text id="10020000">Shinobi Arm and Arm Tools</text>
+<text id="10020001">The "Shinobi Arm" is an unusual
+prosthetic limb used by ninja.
+Press &lt;?kgiconKc@27?&gt; to open the equipment menu and equip "Arm Tools" to the Shinobi Arm.</text>
+<text id="10020002">%null%</text>
+<text id="10020003">%null%</text>
+<text id="10020004">%null%</text>
+<text id="10020005">%null%</text>
+<text id="10020006">%null%</text>
+<text id="10020007">%null%</text>
+<text id="10020008">%null%</text>
+<text id="10020009">%null%</text>
+<text id="10020010">Underfloor Movement</text>
+<text id="10020011">Wolf can slip into tight spaces such as 
+beneath floors when crouched.</text>
+<text id="10020012">%null%</text>
+<text id="10020013">%null%</text>
+<text id="10020014">%null%</text>
+<text id="10020015">%null%</text>
+<text id="10020016">%null%</text>
+<text id="10020017">%null%</text>
+<text id="10020018">%null%</text>
+<text id="10020019">%null%</text>
+<text id="10020020">Mid-air Grappling Hook</text>
+<text id="10020021">&lt;?kgiconKc@6?&gt;→&lt;?kgiconKc@19?&gt;: Mid-air Grappling Hook</text>
+<text id="10020022">%null%</text>
+<text id="10020023">%null%</text>
+<text id="10020024">%null%</text>
+<text id="10020025">%null%</text>
+<text id="10020026">%null%</text>
+<text id="10020027">%null%</text>
+<text id="10020028">%null%</text>
+<text id="10020029">%null%</text>
+<text id="10020030">Sculptor's Idol</text>
+<text id="10020031">&lt;?kgiconKc@20?&gt; in front of Sculptor's Idol:Pray
+
+Pray to Sculptor's Idol to rest.
+The last Sculptor's Idol you prayed at acts as a checkpoint.</text>
+<text id="10020032">%null%</text>
+<text id="10020033">%null%</text>
+<text id="10020034">%null%</text>
+<text id="10020035">%null%</text>
+<text id="10020036">%null%</text>
+<text id="10020037">%null%</text>
+<text id="10020038">%null%</text>
+<text id="10020039">%null%</text>
+<text id="10020040">Wall Jump Ledge Hang</text>
+<text id="10020041">&lt;?kgiconKc@6?&gt; in air near wall: Wall Jump
+&lt;?kgiconKc@20?&gt; in air near ledge: Ledge Hang</text>
+<text id="10020042">%null%</text>
+<text id="10020043">%null%</text>
+<text id="10020044">%null%</text>
+<text id="10020045">%null%</text>
+<text id="10020046">%null%</text>
+<text id="10020047">%null%</text>
+<text id="10020048">%null%</text>
+<text id="10020049">%null%</text>
+<text id="10020050">Combat</text>
+<text id="10020051">&lt;?kgiconKc@12?&gt;:Target lock/release
+&lt;?kgiconKc@16?&gt;:Attack
+&lt;?kgiconKc@18?&gt;:Guard
+&lt;?kgiconKc@18?&gt; in time with enemy attack:Deflect</text>
+<text id="10020052">%null%</text>
+<text id="10020053">%null%</text>
+<text id="10020054">%null%</text>
+<text id="10020055">%null%</text>
+<text id="10020056">%null%</text>
+<text id="10020057">%null%</text>
+<text id="10020058">%null%</text>
+<text id="10020059">%null%</text>
+<text id="10020060">Consecutive Wall Jump</text>
+<text id="10020061">&lt;?kgiconKc@6?&gt; on walls with footholds:
+Consecutive Wall Jump</text>
+<text id="10020080">&lt;?gdsparam@1010?&gt;</text>
+<text id="10020081">Using Ninsatsu Techniques consumes Red Katashiro.</text>
+<text id="10020082">%null%</text>
+<text id="10020083">%null%</text>
+<text id="10020084">%null%</text>
+<text id="10020085">%null%</text>
+<text id="10020086">%null%</text>
+<text id="10020087">%null%</text>
+<text id="10020088">%null%</text>
+<text id="10020089">%null%</text>
+<text id="10020090">Jump Ledge Hang</text>
+<text id="10020091">&lt;?kgiconKc@6?&gt;: Jump
+&lt;?kgiconKc@20?&gt; in air near ledge: Ledge Hang</text>
+<text id="10020120">Mid-air Deathblow</text>
+<text id="10020121">&lt;?kgiconKc@6?&gt; towards a leaping enemy: Jump
+&lt;?kgiconKc@16?&gt; when red symbol appears:
+Mid-air Deathblow</text>
+<text id="10020250">Underwater Controls</text>
+<text id="10020251">&lt;?kgiconKc@17?&gt;: Dive/Swim Down
+&lt;?kgiconKc@19?&gt;: Surface/Swim Up
+&lt;?kgiconKc@5?&gt; while moving with &lt;?kgMove?&gt;: Underwater Dash</text>
+<text id="10020252">%null%</text>
+<text id="10020253">%null%</text>
+<text id="10020254">%null%</text>
+<text id="10020255">%null%</text>
+<text id="10020256">%null%</text>
+<text id="10020257">%null%</text>
+<text id="10020258">%null%</text>
+<text id="10020259">%null%</text>
+<text id="10020260">Plunging Deathblow</text>
+<text id="10020261">&lt;?kgiconKc@12?&gt;: Lock-on to Target
+&lt;?kgiconKc@6?&gt;: Jump
+&lt;?kgiconKc@16?&gt; when red symbol appears: Plunging Deathblow</text>
+<text id="10020262">%null%</text>
+<text id="10020263">%null%</text>
+<text id="10020264">%null%</text>
+<text id="10020265">%null%</text>
+<text id="10020266">%null%</text>
+<text id="10020267">%null%</text>
+<text id="10020268">%null%</text>
+<text id="10020269">%null%</text>
+<text id="10020270">Stealth</text>
+<text id="10020271">You are currently unarmed.
+
+Use stealth to reach the Moon-view Tower without engaging the enemy.</text>
+<text id="10020272">%null%</text>
+<text id="10020273">%null%</text>
+<text id="10020274">%null%</text>
+<text id="10020275">%null%</text>
+<text id="10020276">%null%</text>
+<text id="10020277">%null%</text>
+<text id="10020278">%null%</text>
+<text id="10020279">%null%</text>
+<text id="10020280">Countering Enemy Projectiles</text>
+<text id="10020281">Bullets and other projectiles can be Deflected</text>
+<text id="10020282">%null%</text>
+<text id="10020283">%null%</text>
+<text id="10020284">%null%</text>
+<text id="10020285">%null%</text>
+<text id="10020286">%null%</text>
+<text id="10020287">%null%</text>
+<text id="10020288">%null%</text>
+<text id="10020289">%null%</text>
+<text id="10020290">Lightning Reversal</text>
+<text id="10020291">After being struck by a lightning attack in
+mid-air,  &lt;?kgiconKc@16?&gt; before landing:
+Lightning Reversal</text>
+<text id="10020292">%null%</text>
+<text id="10020293">%null%</text>
+<text id="10020294">%null%</text>
+<text id="10020295">%null%</text>
+<text id="10020296">%null%</text>
+<text id="10020297">%null%</text>
+<text id="10020298">%null%</text>
+<text id="10020299">%null%</text>
+<text id="10020300">Rot Essence</text>
+<text id="10020301">More victims of Dragonrot means
+you will accumulate "Rot Essence,"
+lowering chances of Unseen Aid.</text>
+<text id="10020302">%null%</text>
+<text id="10020303">%null%</text>
+<text id="10020304">%null%</text>
+<text id="10020305">%null%</text>
+<text id="10020306">%null%</text>
+<text id="10020307">%null%</text>
+<text id="10020308">%null%</text>
+<text id="10020309">%null%</text>
+<text id="10020310">Resource use during Reflection</text>
+<text id="10020311">Consumables used during Reflection 
+or Gauntlet of Strength are replenished upon returning to reality.
+
+As reflection is wholly within the mind, resources may be used freely.</text>
+<text id="10020840">Swordplay Training (Elementary)</text>
+<text id="10020841">Use what you've learned to defeat the enemy.</text>
+<text id="10021000">&lt;?kgControlCamera?&gt;: Control Camera</text>
+<text id="10021001">%null%</text>
+<text id="10021002">%null%</text>
+<text id="10021003">%null%</text>
+<text id="10021004">%null%</text>
+<text id="10021005">%null%</text>
+<text id="10021006">%null%</text>
+<text id="10021007">%null%</text>
+<text id="10021008">%null%</text>
+<text id="10021009">%null%</text>
+<text id="10021010">&lt;?kgiconKc@6?&gt;: Jump</text>
+<text id="10021011">%null%</text>
+<text id="10021012">%null%</text>
+<text id="10021013">%null%</text>
+<text id="10021014">%null%</text>
+<text id="10021015">%null%</text>
+<text id="10021016">%null%</text>
+<text id="10021017">%null%</text>
+<text id="10021018">%null%</text>
+<text id="10021019">%null%</text>
+<text id="10021020">&lt;?kgiconKc@6?&gt; in air near wall: Wall Jump</text>
+<text id="10021021">%null%</text>
+<text id="10021022">%null%</text>
+<text id="10021023">%null%</text>
+<text id="10021024">%null%</text>
+<text id="10021025">%null%</text>
+<text id="10021026">%null%</text>
+<text id="10021027">%null%</text>
+<text id="10021028">%null%</text>
+<text id="10021029">%null%</text>
+<text id="10021030">&lt;?kgiconKc@20?&gt;: Toggle Wall Hug</text>
+<text id="10021031">%null%</text>
+<text id="10021032">%null%</text>
+<text id="10021033">%null%</text>
+<text id="10021034">%null%</text>
+<text id="10021035">%null%</text>
+<text id="10021036">%null%</text>
+<text id="10021037">%null%</text>
+<text id="10021038">%null%</text>
+<text id="10021039">%null%</text>
+<text id="10021040">&lt;?kgMove?&gt; during wall cling: Shimmy</text>
+<text id="10021041">%null%</text>
+<text id="10021042">%null%</text>
+<text id="10021043">%null%</text>
+<text id="10021044">%null%</text>
+<text id="10021045">%null%</text>
+<text id="10021046">%null%</text>
+<text id="10021047">%null%</text>
+<text id="10021048">%null%</text>
+<text id="10021049">%null%</text>
+<text id="10021050">&lt;?kgiconKc@7?&gt;: Toggle Crouch</text>
+<text id="10021051">%null%</text>
+<text id="10021052">%null%</text>
+<text id="10021053">%null%</text>
+<text id="10021054">%null%</text>
+<text id="10021055">%null%</text>
+<text id="10021056">%null%</text>
+<text id="10021057">%null%</text>
+<text id="10021058">%null%</text>
+<text id="10021059">%null%</text>
+<text id="10021060">&lt;?kgiconKc@22?&gt;: Eavesdrop</text>
+<text id="10021061">%null%</text>
+<text id="10021062">%null%</text>
+<text id="10021063">%null%</text>
+<text id="10021064">%null%</text>
+<text id="10021065">%null%</text>
+<text id="10021066">%null%</text>
+<text id="10021067">%null%</text>
+<text id="10021068">%null%</text>
+<text id="10021069">%null%</text>
+<text id="10021070">&lt;?kgiconKc@20?&gt; near edge: Ledge Hang</text>
+<text id="10021071">%null%</text>
+<text id="10021072">%null%</text>
+<text id="10021073">%null%</text>
+<text id="10021074">%null%</text>
+<text id="10021075">%null%</text>
+<text id="10021076">%null%</text>
+<text id="10021077">%null%</text>
+<text id="10021078">%null%</text>
+<text id="10021079">%null%</text>
+<text id="10021080">&lt;?kgMove?&gt; during ledge hang: Shimmy</text>
+<text id="10021081">%null%</text>
+<text id="10021082">%null%</text>
+<text id="10021083">%null%</text>
+<text id="10021084">%null%</text>
+<text id="10021085">%null%</text>
+<text id="10021086">%null%</text>
+<text id="10021087">%null%</text>
+<text id="10021088">%null%</text>
+<text id="10021089">%null%</text>
+<text id="10021090">&lt;?kgiconKc@20?&gt;: Climb Up</text>
+<text id="10021091">%null%</text>
+<text id="10021092">%null%</text>
+<text id="10021093">%null%</text>
+<text id="10021094">%null%</text>
+<text id="10021095">%null%</text>
+<text id="10021096">%null%</text>
+<text id="10021097">%null%</text>
+<text id="10021098">%null%</text>
+<text id="10021099">%null%</text>
+<text id="10021100">&lt;?kgiconKc@5?&gt;: Drop Down</text>
+<text id="10021101">%null%</text>
+<text id="10021102">%null%</text>
+<text id="10021103">%null%</text>
+<text id="10021104">%null%</text>
+<text id="10021105">%null%</text>
+<text id="10021106">%null%</text>
+<text id="10021107">%null%</text>
+<text id="10021108">%null%</text>
+<text id="10021109">%null%</text>
+<text id="10021110">&lt;?kgiconKc@27?&gt;: Open Equipment Menu</text>
+<text id="10021111">%null%</text>
+<text id="10021112">%null%</text>
+<text id="10021113">%null%</text>
+<text id="10021114">%null%</text>
+<text id="10021115">%null%</text>
+<text id="10021116">%null%</text>
+<text id="10021117">%null%</text>
+<text id="10021118">%null%</text>
+<text id="10021119">%null%</text>
+<text id="10021120">&lt;?kgiconKc@12?&gt;: Toggle Target Lock-on</text>
+<text id="10021121">%null%</text>
+<text id="10021122">%null%</text>
+<text id="10021123">%null%</text>
+<text id="10021124">%null%</text>
+<text id="10021125">%null%</text>
+<text id="10021126">%null%</text>
+<text id="10021127">%null%</text>
+<text id="10021128">%null%</text>
+<text id="10021129">%null%</text>
+<text id="10021130">&lt;?kgiconKc@16?&gt;: Attack</text>
+<text id="10021131">%null%</text>
+<text id="10021132">%null%</text>
+<text id="10021133">%null%</text>
+<text id="10021134">%null%</text>
+<text id="10021135">%null%</text>
+<text id="10021136">%null%</text>
+<text id="10021137">%null%</text>
+<text id="10021138">%null%</text>
+<text id="10021139">%null%</text>
+<text id="10021140">&lt;?kgiconKc@16?&gt; on posture-broken enemy: Deathblow</text>
+<text id="10021141">%null%</text>
+<text id="10021142">%null%</text>
+<text id="10021143">%null%</text>
+<text id="10021144">%null%</text>
+<text id="10021145">%null%</text>
+<text id="10021146">%null%</text>
+<text id="10021147">%null%</text>
+<text id="10021148">%null%</text>
+<text id="10021149">%null%</text>
+<text id="10021150">&lt;?kgiconKc@18?&gt; the moment enemy attack lands:  Deflect</text>
+<text id="10021151">%null%</text>
+<text id="10021152">%null%</text>
+<text id="10021153">%null%</text>
+<text id="10021154">%null%</text>
+<text id="10021155">%null%</text>
+<text id="10021156">%null%</text>
+<text id="10021157">%null%</text>
+<text id="10021158">%null%</text>
+<text id="10021159">%null%</text>
+<text id="10021160">&lt;?kgControlCamera?&gt; while targeting: Change Target</text>
+<text id="10021161">%null%</text>
+<text id="10021162">%null%</text>
+<text id="10021163">%null%</text>
+<text id="10021164">%null%</text>
+<text id="10021165">%null%</text>
+<text id="10021166">%null%</text>
+<text id="10021167">%null%</text>
+<text id="10021168">%null%</text>
+<text id="10021169">%null%</text>
+<text id="10021170">&lt;?kgiconKc@5?&gt;: Drop Down</text>
+<text id="10021171">%null%</text>
+<text id="10021172">%null%</text>
+<text id="10021173">%null%</text>
+<text id="10021174">%null%</text>
+<text id="10021175">%null%</text>
+<text id="10021176">%null%</text>
+<text id="10021177">%null%</text>
+<text id="10021178">%null%</text>
+<text id="10021179">%null%</text>
+<text id="10021180">&lt;?kgiconKc@19?&gt;: Use Grappling Hook</text>
+<text id="10021181">%null%</text>
+<text id="10021182">%null%</text>
+<text id="10021183">%null%</text>
+<text id="10021184">%null%</text>
+<text id="10021185">%null%</text>
+<text id="10021186">%null%</text>
+<text id="10021187">%null%</text>
+<text id="10021188">%null%</text>
+<text id="10021189">%null%</text>
+<text id="10021190">&lt;?kgiconKc@16?&gt;:Regeneration Technique</text>
+<text id="10021191">%null%</text>
+<text id="10021192">%null%</text>
+<text id="10021193">%null%</text>
+<text id="10021194">%null%</text>
+<text id="10021195">%null%</text>
+<text id="10021196">%null%</text>
+<text id="10021197">%null%</text>
+<text id="10021198">%null%</text>
+<text id="10021199">%null%</text>
+<text id="10021200">&lt;?kgiconKc@17?&gt;: Use Prosthetic Tool</text>
+<text id="10021201">%null%</text>
+<text id="10021202">%null%</text>
+<text id="10021203">%null%</text>
+<text id="10021204">%null%</text>
+<text id="10021205">%null%</text>
+<text id="10021206">%null%</text>
+<text id="10021207">%null%</text>
+<text id="10021208">%null%</text>
+<text id="10021209">%null%</text>
+<text id="10021210">&lt;?kgiconKc@15?&gt;: Cycle equipped Prosthetic Tools</text>
+<text id="10021211">%null%</text>
+<text id="10021212">%null%</text>
+<text id="10021213">%null%</text>
+<text id="10021214">%null%</text>
+<text id="10021215">%null%</text>
+<text id="10021216">%null%</text>
+<text id="10021217">%null%</text>
+<text id="10021218">%null%</text>
+<text id="10021219">%null%</text>
+<text id="10021220">&lt;?kgiconKc@21?&gt;:Use Items</text>
+<text id="10021221">%null%</text>
+<text id="10021222">%null%</text>
+<text id="10021223">%null%</text>
+<text id="10021224">%null%</text>
+<text id="10021225">%null%</text>
+<text id="10021226">%null%</text>
+<text id="10021227">%null%</text>
+<text id="10021228">%null%</text>
+<text id="10021229">%null%</text>
+<text id="10021230">&lt;?kgiconKc@16?&gt; after Backstab Deathblow: Ninjutsu</text>
+<text id="10021231">%null%</text>
+<text id="10021232">%null%</text>
+<text id="10021233">%null%</text>
+<text id="10021234">%null%</text>
+<text id="10021235">%null%</text>
+<text id="10021236">%null%</text>
+<text id="10021237">%null%</text>
+<text id="10021238">%null%</text>
+<text id="10021239">%null%</text>
+<text id="10021240">Hold &lt;?kgiconKc@20?&gt;: Collect enemy loot</text>
+<text id="10021241">%null%</text>
+<text id="10021242">%null%</text>
+<text id="10021243">%null%</text>
+<text id="10021244">%null%</text>
+<text id="10021245">%null%</text>
+<text id="10021246">%null%</text>
+<text id="10021247">%null%</text>
+<text id="10021248">%null%</text>
+<text id="10021249">%null%</text>
+<text id="10021250">&lt;?kgiconKc@6?&gt;→&lt;?kgiconKc@19?&gt;: Mid-air Grappling Hook</text>
+<text id="10021251">%null%</text>
+<text id="10021252">%null%</text>
+<text id="10021253">%null%</text>
+<text id="10021254">%null%</text>
+<text id="10021255">%null%</text>
+<text id="10021256">%null%</text>
+<text id="10021257">%null%</text>
+<text id="10021258">%null%</text>
+<text id="10021259">%null%</text>
+<text id="10021260">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Use equipped Combat Art</text>
+<text id="10021261">%null%</text>
+<text id="10021262">%null%</text>
+<text id="10021263">%null%</text>
+<text id="10021264">%null%</text>
+<text id="10021265">%null%</text>
+<text id="10021266">%null%</text>
+<text id="10021267">%null%</text>
+<text id="10021268">%null%</text>
+<text id="10021269">%null%</text>
+<text id="10021270">&lt;?kgiconKc@5?&gt;: Step Dodge</text>
+<text id="10021271">%null%</text>
+<text id="10021272">%null%</text>
+<text id="10021273">%null%</text>
+<text id="10021274">%null%</text>
+<text id="10021275">%null%</text>
+<text id="10021276">%null%</text>
+<text id="10021277">%null%</text>
+<text id="10021278">%null%</text>
+<text id="10021279">%null%</text>
+<text id="10021280">&lt;?kgMove?&gt; toward edge while hugging wall: Peek</text>
+<text id="10021500">&lt;?kgiconKc@20?&gt; on Sculptor's Idol: Commune</text>
+<text id="10021501">%null%</text>
+<text id="10021502">%null%</text>
+<text id="10021503">%null%</text>
+<text id="10021504">%null%</text>
+<text id="10021505">%null%</text>
+<text id="10021506">%null%</text>
+<text id="10021507">%null%</text>
+<text id="10021508">%null%</text>
+<text id="10021509">%null%</text>
+<text id="10021510">&lt;?kgiconKc@18?&gt; just as enemy projectile lands: Deflect</text>
+<text id="10021511">%null%</text>
+<text id="10021512">%null%</text>
+<text id="10021513">%null%</text>
+<text id="10021514">%null%</text>
+<text id="10021515">%null%</text>
+<text id="10021516">%null%</text>
+<text id="10021517">%null%</text>
+<text id="10021518">%null%</text>
+<text id="10021519">%null%</text>
+<text id="10021520">&lt;?kgiconKc@16?&gt;: Finisher Deathblow</text>
+<text id="10021521">%null%</text>
+<text id="10021522">%null%</text>
+<text id="10021523">%null%</text>
+<text id="10021524">%null%</text>
+<text id="10021525">%null%</text>
+<text id="10021526">%null%</text>
+<text id="10021527">%null%</text>
+<text id="10021528">%null%</text>
+<text id="10021529">%null%</text>
+<text id="10021530">&lt;?kgiconKc@6?&gt;/&lt;?kgiconKc@5?&gt; when knocked down: Safety Roll</text>
+<text id="10021531">%null%</text>
+<text id="10021532">%null%</text>
+<text id="10021533">%null%</text>
+<text id="10021534">%null%</text>
+<text id="10021535">%null%</text>
+<text id="10021536">%null%</text>
+<text id="10021537">%null%</text>
+<text id="10021538">%null%</text>
+<text id="10021539">%null%</text>
+<text id="10021540">&lt;?kgiconKc@16?&gt; after Deflecting: Counter-slash</text>
+<text id="10021541">%null%</text>
+<text id="10021542">%null%</text>
+<text id="10021543">%null%</text>
+<text id="10021544">%null%</text>
+<text id="10021545">%null%</text>
+<text id="10021546">%null%</text>
+<text id="10021547">%null%</text>
+<text id="10021548">%null%</text>
+<text id="10021549">%null%</text>
+<text id="10021550">Hold &lt;?kgiconKc@16?&gt;: Thrust attack</text>
+<text id="10021551">%null%</text>
+<text id="10021552">%null%</text>
+<text id="10021553">%null%</text>
+<text id="10021554">%null%</text>
+<text id="10021555">%null%</text>
+<text id="10021556">%null%</text>
+<text id="10021557">%null%</text>
+<text id="10021558">%null%</text>
+<text id="10021559">%null%</text>
+<text id="10021560">Hold &lt;?kgiconKc@5?&gt; + &lt;?kgMove?&gt;: Sprint</text>
+<text id="10021800">&lt;?kgiconKc@16?&gt;:Attack</text>
+<text id="10021801">%null%</text>
+<text id="10021802">%null%</text>
+<text id="10021803">%null%</text>
+<text id="10021804">%null%</text>
+<text id="10021805">%null%</text>
+<text id="10021806">%null%</text>
+<text id="10021807">%null%</text>
+<text id="10021808">%null%</text>
+<text id="10021809">%null%</text>
+<text id="10021810">&lt;?kgiconKc@16?&gt; on staggered enemy:Ninsatsu</text>
+<text id="10021811">%null%</text>
+<text id="10021812">%null%</text>
+<text id="10021813">%null%</text>
+<text id="10021814">%null%</text>
+<text id="10021815">%null%</text>
+<text id="10021816">%null%</text>
+<text id="10021817">%null%</text>
+<text id="10021818">%null%</text>
+<text id="10021819">%null%</text>
+<text id="10021820">Press &lt;?kgiconKc@18?&gt; in time with an enemy's attack to deflect it.</text>
+<text id="10022000">Posture</text>
+<text id="10022001">When Wolf's or an enemy's posture gauge is maxed out, posture is broken.
+
+Enemy posture can be damaged by a 
+combination of deflecting and attacking.
+</text>
+<text id="10022002">%null%</text>
+<text id="10022003">%null%</text>
+<text id="10022004">%null%</text>
+<text id="10022005">%null%</text>
+<text id="10022006">%null%</text>
+<text id="10022007">%null%</text>
+<text id="10022008">%null%</text>
+<text id="10022009">%null%</text>
+<text id="10022010">Resurrection Potential</text>
+<text id="10022011">Check your current Resurrection Potential, required to use the Resurrection Technique.
+Resting at a Sculptor's Idol will always fill the gauge enough for one Resurrection.</text>
+<text id="10022012">%null%</text>
+<text id="10022013">%null%</text>
+<text id="10022014">%null%</text>
+<text id="10022015">%null%</text>
+<text id="10022016">%null%</text>
+<text id="10022017">%null%</text>
+<text id="10022018">%null%</text>
+<text id="10022019">%null%</text>
+<text id="10022020">Plunge Ninsatsu</text>
+<text id="10022021">&lt;?kgiconKc@16?&gt; while jumping over an enemy:Plunging Ninsatsu</text>
+<text id="10022022">%null%</text>
+<text id="10022023">%null%</text>
+<text id="10022024">%null%</text>
+<text id="10022025">%null%</text>
+<text id="10022026">%null%</text>
+<text id="10022027">%null%</text>
+<text id="10022028">%null%</text>
+<text id="10022029">%null%</text>
+<text id="10022030">Detection marker</text>
+<text id="10022031">Yellow:Suspicious
+Red:Hostile</text>
+<text id="10022032">%null%</text>
+<text id="10022033">%null%</text>
+<text id="10022034">%null%</text>
+<text id="10022035">%null%</text>
+<text id="10022036">%null%</text>
+<text id="10022037">%null%</text>
+<text id="10022038">%null%</text>
+<text id="10022039">%null%</text>
+<text id="10022040">Perilous attacks</text>
+<text id="10022041">The perilous attack marker signifies attacks that can't be guarded</text>
+<text id="10022042">%null%</text>
+<text id="10022043">%null%</text>
+<text id="10022044">%null%</text>
+<text id="10022045">%null%</text>
+<text id="10022046">%null%</text>
+<text id="10022047">%null%</text>
+<text id="10022048">%null%</text>
+<text id="10022049">%null%</text>
+<text id="10022050">&lt;?gdsparam@1000?&gt;</text>
+<text id="10022051">Using Arm Tools consumes &lt;?gdsparam@1000?&gt;</text>
+<text id="10022052">%null%</text>
+<text id="10022053">%null%</text>
+<text id="10022054">%null%</text>
+<text id="10022055">%null%</text>
+<text id="10022056">%null%</text>
+<text id="10022057">%null%</text>
+<text id="10022058">%null%</text>
+<text id="10022059">%null%</text>
+<text id="10022060">Plunging Deathblow</text>
+<text id="10022061">&lt;?kgiconKc@6?&gt;: Jump 
+&lt;?kgiconKc@16?&gt;: when red marker appears: 
+Plunging Deathblow</text>
+<text id="10023000">Sword Combat</text>
+<text id="10023001">&lt;?kgiconKc@16?&gt;: Attack
+&lt;?kgiconKc@18?&gt; the moment enemy attack lands: Deflect</text>
+<text id="10023002">%null%</text>
+<text id="10023003">%null%</text>
+<text id="10023004">%null%</text>
+<text id="10023005">%null%</text>
+<text id="10023006">%null%</text>
+<text id="10023007">%null%</text>
+<text id="10023008">%null%</text>
+<text id="10023009">%null%</text>
+<text id="10023010">Deflect Ninsatsu</text>
+<text id="10023011">Press &lt;?kgiconKc@18?&gt; in time with an enemy's attack to deflect it.
+&lt;?kgiconKc@16?&gt;:Repel to trigger "Deflect Ninsatsu"</text>
+<text id="10023012">%null%</text>
+<text id="10023013">%null%</text>
+<text id="10023014">%null%</text>
+<text id="10023015">%null%</text>
+<text id="10023016">%null%</text>
+<text id="10023017">%null%</text>
+<text id="10023018">%null%</text>
+<text id="10023019">%null%</text>
+<text id="10023020">&lt;?kgiconKc@21?&gt;: Use Quick Item</text>
+<text id="10023021">%null%</text>
+<text id="10023022">%null%</text>
+<text id="10023023">%null%</text>
+<text id="10023024">%null%</text>
+<text id="10023025">%null%</text>
+<text id="10023026">%null%</text>
+<text id="10023027">%null%</text>
+<text id="10023028">%null%</text>
+<text id="10023029">%null%</text>
+<text id="10023030">Spirit Emblem</text>
+<text id="10023031">Using Prosthetic Tools costs Spirit Emblems.</text>
+<text id="10023032">%null%</text>
+<text id="10023033">%null%</text>
+<text id="10023034">%null%</text>
+<text id="10023035">%null%</text>
+<text id="10023036">%null%</text>
+<text id="10023037">%null%</text>
+<text id="10023038">%null%</text>
+<text id="10023039">%null%</text>
+<text id="10023040">Sculptor's Idol</text>
+<text id="10023041">Commune with a Sculptor's Idol to rest.
+The last Sculptor's Idol communed with acts as a checkpoint.</text>
+<text id="10023042">%null%</text>
+<text id="10023043">%null%</text>
+<text id="10023044">%null%</text>
+<text id="10023045">%null%</text>
+<text id="10023046">%null%</text>
+<text id="10023047">%null%</text>
+<text id="10023048">%null%</text>
+<text id="10023049">%null%</text>
+<text id="10023050">&lt;?kgiconKc@5?&gt;: Step Dodge</text>
+<text id="10023051">%null%</text>
+<text id="10023052">%null%</text>
+<text id="10023053">%null%</text>
+<text id="10023054">%null%</text>
+<text id="10023055">%null%</text>
+<text id="10023056">%null%</text>
+<text id="10023057">%null%</text>
+<text id="10023058">%null%</text>
+<text id="10023059">%null%</text>
+<text id="10023060">Quick Items</text>
+<text id="10023061">&lt;?kgiconKc@21?&gt;: Use Current Quick Item
+&lt;?kgToggleItems?&gt;: Cycle Quick Items</text>
+<text id="10023062">%null%</text>
+<text id="10023063">%null%</text>
+<text id="10023064">%null%</text>
+<text id="10023065">%null%</text>
+<text id="10023066">%null%</text>
+<text id="10023067">%null%</text>
+<text id="10023068">%null%</text>
+<text id="10023069">%null%</text>
+<text id="10023070">Posture Recovery Speed</text>
+<text id="10023071">Posture recovers over time.  
+
+The lower one's Vitality, the slower 
+posture recovers.</text>
+<text id="10023090">Perilous Attacks</text>
+<text id="10023091">Some enemies use unguardable 
+"Perilous Attacks", signified with a danger symbol.  
+When these occur, watch carefully and look to perform a specific response.
+
+&lt;?kgiconKc@18?&gt; as thrust lands: Deflect
+&lt;?kgiconKc@6?&gt; before sweep lands: Jump
+For grabs, Jump or Sprint out of their range or &lt;?kgiconKc@5?&gt;: Step Dodge</text>
+<text id="10023092">%null%</text>
+<text id="10023093">%null%</text>
+<text id="10023094">%null%</text>
+<text id="10023095">%null%</text>
+<text id="10023096">%null%</text>
+<text id="10023097">%null%</text>
+<text id="10023098">%null%</text>
+<text id="10023099">%null%</text>
+<text id="10023100">&lt;?kgiconKc@5?&gt;:Get up</text>
+<text id="10023101">%null%</text>
+<text id="10023102">%null%</text>
+<text id="10023103">%null%</text>
+<text id="10023104">%null%</text>
+<text id="10023105">%null%</text>
+<text id="10023106">%null%</text>
+<text id="10023107">%null%</text>
+<text id="10023108">%null%</text>
+<text id="10023109">%null%</text>
+<text id="10023110">Plunging Deathblow</text>
+<text id="10023111">Take down unaware enemies by
+pouncing on them from above.
+
+&lt;?kgiconKc@12?&gt;: Lock-on
+&lt;?kgiconKc@6?&gt;: Jump toward enemy
+&lt;?kgiconKc@16?&gt; when red marker appears: 
+Plunging Deathblow</text>
+<text id="10023112">%null%</text>
+<text id="10023113">%null%</text>
+<text id="10023114">%null%</text>
+<text id="10023115">%null%</text>
+<text id="10023116">%null%</text>
+<text id="10023117">%null%</text>
+<text id="10023118">%null%</text>
+<text id="10023119">%null%</text>
+<text id="10023120">Posture System</text>
+<text id="10023121">
+Combine attacks and deflects to break enemy posture.
+
+A posture-broken enemy is vulnerable to a Deathblow.
+
+&lt;?kgiconKc@16?&gt;: Attack
+&lt;?kgiconKc@18?&gt; as attack lands: Deflect 
+&lt;?kgiconKc@16?&gt; on posture-broken enemy: Deathblow</text>
+<text id="10023122">%null%</text>
+<text id="10023123">%null%</text>
+<text id="10023124">%null%</text>
+<text id="10023125">%null%</text>
+<text id="10023126">%null%</text>
+<text id="10023127">%null%</text>
+<text id="10023128">%null%</text>
+<text id="10023129">%null%</text>
+<text id="10023130">Prosthetic Tools</text>
+<text id="10023131">Prosthetic tools are hidden weapons loaded inside the Shinobi Prosthetic.
+
+There are a variety of Prosthetic Tools, each effective in different situations.
+
+&lt;?kgiconKc@17?&gt;: Use Prosthetic Tool
+&lt;?kgiconKc@15?&gt;: Cycle Prosthetic Tools</text>
+<text id="10023150">Using Quick Items</text>
+<text id="10023151">You can cycle through various
+Quick Items and use each 
+according to the situation.
+
+For instance, if you have taken 
+damage, you can recover Vitality 
+with the Healing Gourd.
+
+&lt;?kgiconKc@21?&gt;: Use Quick Item
+&lt;?kgToggleItems?&gt;: Cycle Quick Items</text>
+<text id="10023152">%null%</text>
+<text id="10023153">%null%</text>
+<text id="10023154">%null%</text>
+<text id="10023155">%null%</text>
+<text id="10023156">%null%</text>
+<text id="10023157">%null%</text>
+<text id="10023158">%null%</text>
+<text id="10023159">%null%</text>
+<text id="10023160">Safety Roll</text>
+<text id="10023161">When your Posture is broken,
+use Safety Roll to quickly recover.
+
+&lt;?kgiconKc@6?&gt; or &lt;?kgiconKc@5?&gt; when knocked down or posture-broken: Safety Roll</text>
+<text id="10023162">%null%</text>
+<text id="10023163">%null%</text>
+<text id="10023164">%null%</text>
+<text id="10023165">%null%</text>
+<text id="10023166">%null%</text>
+<text id="10023167">%null%</text>
+<text id="10023168">%null%</text>
+<text id="10023169">%null%</text>
+<text id="10023170">&lt;?kgToggleItems?&gt;:Cycle items</text>
+<text id="10024500">Stealth</text>
+<text id="10024501">Advance without being seen by crouching in bushes or moving under floors.
+
+You do not have a sword at the moment. Use stealth to avoid enemies and head to the Moon-view Tower.
+
+If you're about to be seen, warning markers appear above enemies' heads.</text>
+<text id="10024502">%null%</text>
+<text id="10024503">%null%</text>
+<text id="10024504">%null%</text>
+<text id="10024505">%null%</text>
+<text id="10024506">%null%</text>
+<text id="10024507">%null%</text>
+<text id="10024508">%null%</text>
+<text id="10024509">%null%</text>
+<text id="10024510">Using Quick Items</text>
+<text id="10024511">You can cycle through various
+Quick Items and use each 
+according to the situation.
+
+For instance, if you have taken 
+damage, you can recover Vitality 
+with the Healing Gourd.
+
+&lt;?kgiconKc@21?&gt;: Use Quick Item
+&lt;?kgToggleItems?&gt;: Cycle Quick Items</text>
+<text id="10024512">%null%</text>
+<text id="10024513">%null%</text>
+<text id="10024514">%null%</text>
+<text id="10024515">%null%</text>
+<text id="10024516">%null%</text>
+<text id="10024517">%null%</text>
+<text id="10024518">%null%</text>
+<text id="10024519">%null%</text>
+<text id="10024520">Counter-slash</text>
+<text id="10024521">A Counter-slash can be performed immediately after deflecting an attack.
+
+This allows you to deal Posture damage without giving the enemy time to recover.
+
+&lt;?kgiconKc@18?&gt; the moment attack lands: Deflect
+&lt;?kgiconKc@16?&gt; after Deflecting: Counter-slash</text>
+<text id="10024522">%null%</text>
+<text id="10024523">%null%</text>
+<text id="10024524">%null%</text>
+<text id="10024525">%null%</text>
+<text id="10024526">%null%</text>
+<text id="10024527">%null%</text>
+<text id="10024528">%null%</text>
+<text id="10024529">%null%</text>
+<text id="10024530">Deathblow Against Strong Enemies</text>
+<text id="10024531">Some powerful opponents require
+multiple Deathblows to be killed.
+
+The number of Deathblows required to
+kill an enemy is shown by the 
+red circular markers above their vitality bars.  
+
+Each Deathblow removes one marker.</text>
+<text id="10024532">%null%</text>
+<text id="10024533">%null%</text>
+<text id="10024534">%null%</text>
+<text id="10024535">%null%</text>
+<text id="10024536">%null%</text>
+<text id="10024537">%null%</text>
+<text id="10024538">%null%</text>
+<text id="10024539">%null%</text>
+<text id="10024540">Grappling Hook</text>
+<text id="10024541">The Shinobi Prosthetic's Grappling Hook allows access to normally unreachable places, and a chance to take the high ground.
+
+Nearby grapple points are designated with a circular symbol.  When this symbol turns green, the grapple point is within reach.
+&lt;?kgiconKc@19?&gt;: Grappling Hook</text>
+<text id="10024542">%null%</text>
+<text id="10024543">%null%</text>
+<text id="10024544">%null%</text>
+<text id="10024545">%null%</text>
+<text id="10024546">%null%</text>
+<text id="10024547">%null%</text>
+<text id="10024548">%null%</text>
+<text id="10024549">%null%</text>
+<text id="10024550">Stealth Deathblow</text>
+<text id="10024551">You can perform "Stealth Deathblows"
+on opponents unaware of your presence.
+
+The "Plunging Deathblow" is one of these, performed when leaping at an unaware enemy from high ground.
+&lt;?kgiconKc@12?&gt;: Lock on to enemy
+&lt;?kgiconKc@6?&gt;: Jump 
+&lt;?kgiconKc@16?&gt;: Plunging Deathblow</text>
+<text id="10024552">%null%</text>
+<text id="10024553">%null%</text>
+<text id="10024554">%null%</text>
+<text id="10024555">%null%</text>
+<text id="10024556">%null%</text>
+<text id="10024557">%null%</text>
+<text id="10024558">%null%</text>
+<text id="10024559">%null%</text>
+<text id="10024560">Fitting Prosthetic Tools</text>
+<text id="10024561">Shinobi Tools can't be used on their own.  By giving them to the Sculptor, they can be fitted to the Shinobi Prosthetic.
+
+You can quickly return to the Sculptor via Travel from a Sculptor's Idol, or by using the Homeward Idol.</text>
+<text id="10024562">%null%</text>
+<text id="10024563">%null%</text>
+<text id="10024564">%null%</text>
+<text id="10024565">%null%</text>
+<text id="10024566">%null%</text>
+<text id="10024567">%null%</text>
+<text id="10024568">%null%</text>
+<text id="10024569">%null%</text>
+<text id="10024570">Prosthetic Tool</text>
+<text id="10024571">Prosthetic Tools are shinobi tools adapted for use with the Shinobi Prosthetic.
+
+They can be equipped in the Equipment Menu, and using them consumes Spirit Emblems.
+
+&lt;?kgiconKc@27?&gt;: Open Equipment Menu
+&lt;?kgiconKc@17?&gt;: Use Prosthetic Tool
+&lt;?kgiconKc@15?&gt;: Switch Prosthetic Tool</text>
+<text id="10024572">%null%</text>
+<text id="10024573">%null%</text>
+<text id="10024574">%null%</text>
+<text id="10024575">%null%</text>
+<text id="10024576">%null%</text>
+<text id="10024577">%null%</text>
+<text id="10024578">%null%</text>
+<text id="10024579">%null%</text>
+<text id="10024580">Perilous Attacks</text>
+<text id="10024581">Some enemies use unguardable 
+"Perilous Attacks", signified with a danger symbol.  
+When these occur, watch carefully and look to perform a specific response.
+
+&lt;?kgiconKc@18?&gt; as thrust lands: Deflect
+&lt;?kgiconKc@6?&gt; before sweep lands: Jump
+For grabs, Jump or Sprint out of their range or &lt;?kgiconKc@5?&gt;: Step Dodge</text>
+<text id="10024582">%null%</text>
+<text id="10024583">%null%</text>
+<text id="10024584">%null%</text>
+<text id="10024585">%null%</text>
+<text id="10024586">%null%</text>
+<text id="10024587">%null%</text>
+<text id="10024588">%null%</text>
+<text id="10024589">%null%</text>
+<text id="10024590">Prosthetic Tool Upgrades</text>
+<text id="10024591">By giving the Mechanical Barrel to the Sculptor, upgraded Prosthetic Tools can be created.
+
+You can quickly return to the Sculptor via the "Travel" option at a Sculptor's Idol, or by using the Homeward Idol Quick Item.</text>
+<text id="10024592">%null%</text>
+<text id="10024593">%null%</text>
+<text id="10024594">%null%</text>
+<text id="10024595">%null%</text>
+<text id="10024596">%null%</text>
+<text id="10024597">%null%</text>
+<text id="10024598">%null%</text>
+<text id="10024599">%null%</text>
+<text id="10024600">Dragon's Blood Stagnation</text>
+<text id="10024601">Dying without resurrecting results in 
+"Stagnation of the Dragon's Blood".
+When stagnation reaches its limits,
+it has a chance of "overflowing".
+Each successive death increases the chance of overflow.
+When this happens, some known to Wolf will becomes sick with "Dragonrot", and his Resurrective Power is reduced by 1.</text>
+<text id="10024602">%null%</text>
+<text id="10024603">%null%</text>
+<text id="10024604">%null%</text>
+<text id="10024605">%null%</text>
+<text id="10024606">%null%</text>
+<text id="10024607">%null%</text>
+<text id="10024608">%null%</text>
+<text id="10024609">%null%</text>
+<text id="10024610">Dragonrot Restoration</text>
+<text id="10024611">If someone afflicted with Dragonrot is not treated, they will die.
+
+However, Emma can create a medicine 
+called Dragonrot Pellet to cure them.
+
+Dragonrot Pellets require
+Resurrective Power to be created.</text>
+<text id="10024612">%null%</text>
+<text id="10024613">%null%</text>
+<text id="10024614">%null%</text>
+<text id="10024615">%null%</text>
+<text id="10024616">%null%</text>
+<text id="10024617">%null%</text>
+<text id="10024618">%null%</text>
+<text id="10024619">%null%</text>
+<text id="10024620">Lightning Reversal</text>
+<text id="10024621">If one is standing on the ground, lightning surges through them, making movement impossible.
+
+But if one is struck while in the air, the lightning can be dispelled from the body and sent at an enemy instead.
+
+&lt;?kgiconKc@18?&gt; when hit by lightning in air: Charge
+&lt;?kgiconKc@16?&gt; before landing: Lightning Reversal</text>
+<text id="10024622">%null%</text>
+<text id="10024623">%null%</text>
+<text id="10024624">%null%</text>
+<text id="10024625">%null%</text>
+<text id="10024626">%null%</text>
+<text id="10024627">%null%</text>
+<text id="10024628">%null%</text>
+<text id="10024629">%null%</text>
+<text id="10024630">Skills</text>
+<text id="10024631">Owning an "Esoteric Text" of a combat style will allow its skills to be acquired in the Sculptor's Idol Skill Menu.
+Each enemy defeated provides Skill Experience.  Skill Points are acquired once enough experience is gained, which can be spent to unlock Skills.  Some Skills can also be learned by obtaining items or defeating enemies.</text>
+<text id="10024632">%null%</text>
+<text id="10024633">%null%</text>
+<text id="10024634">%null%</text>
+<text id="10024635">%null%</text>
+<text id="10024636">%null%</text>
+<text id="10024637">%null%</text>
+<text id="10024638">%null%</text>
+<text id="10024639">%null%</text>
+<text id="10024640">Combat Arts</text>
+<text id="10024641">"Combat Arts" are special attack skills based on the strengths of the fighting style they belong to.
+They must be equipped in the 
+Equipment Menu to be used, and can be learned through the Skill Menu or found in special Esoteric Texts.
+
+&lt;?kgiconKc@16?&gt; while holding &lt;?kgiconKc@18?&gt;: 
+Perform equipped Combat Art</text>
+<text id="10024642">%null%</text>
+<text id="10024643">%null%</text>
+<text id="10024644">%null%</text>
+<text id="10024645">%null%</text>
+<text id="10024646">%null%</text>
+<text id="10024647">%null%</text>
+<text id="10024648">%null%</text>
+<text id="10024649">%null%</text>
+<text id="10024650">Prosthetic Follow-up Attack</text>
+<text id="10024651">Special sword attacks can be performed immediately after using Prosthetic Tools.
+
+&lt;?kgiconKc@17?&gt;: Use Prosthetic Tool
+&lt;?kgiconKc@16?&gt; right afterward: Follow-up Attack
+
+Controls for Follow-up Attacks
+can be viewed in the Equipment Menu.</text>
+<text id="10024652">%null%</text>
+<text id="10024653">%null%</text>
+<text id="10024654">%null%</text>
+<text id="10024655">%null%</text>
+<text id="10024656">%null%</text>
+<text id="10024657">%null%</text>
+<text id="10024658">%null%</text>
+<text id="10024659">%null%</text>
+<text id="10024660">Ninjutsu Techniques</text>
+<text id="10024661">Ninjutsu Techniques are powerful abilities that can only be used after performing a Backstab Deathblow.
+
+They must be equipped in the Equipment Menu, and cost Spirit Emblems to perform.
+
+&lt;?kgiconKc@16?&gt; after Backstab Deathblow: 
+Ninjutsu Technique</text>
+<text id="10024662">%null%</text>
+<text id="10024663">%null%</text>
+<text id="10024664">%null%</text>
+<text id="10024665">%null%</text>
+<text id="10024666">%null%</text>
+<text id="10024667">%null%</text>
+<text id="10024668">%null%</text>
+<text id="10024669">%null%</text>
+<text id="10024670">Acquiring Enemy Loot</text>
+<text id="10024671">Enemies drop loot such as items and money.  Multiple enemies can be looted at once, and from some distance away.
+
+Items found in the world are different than loot, in that they must be approached to be picked up.
+Press and hold &lt;?kgiconKc@20?&gt;: Acquire Loot
+Press &lt;?kgiconKc@20?&gt; near world item: Pick Up Item</text>
+<text id="10024672">%null%</text>
+<text id="10024673">%null%</text>
+<text id="10024674">%null%</text>
+<text id="10024675">%null%</text>
+<text id="10024676">%null%</text>
+<text id="10024677">%null%</text>
+<text id="10024678">%null%</text>
+<text id="10024679">%null%</text>
+<text id="10024680">Resurrection</text>
+<text id="10024681">The Divine Heir's blood grants the ability to return from the dead using "Resurrective Power".
+
+One charge is always restored by resting at a Sculptor's Idol, killing enemies restores additional charges.  
+Resurrection becomes unusable immediately after using it, but killing enemies will make it available again.</text>
+<text id="10024682">%null%</text>
+<text id="10024683">%null%</text>
+<text id="10024684">%null%</text>
+<text id="10024685">%null%</text>
+<text id="10024686">%null%</text>
+<text id="10024687">%null%</text>
+<text id="10024688">%null%</text>
+<text id="10024689">%null%</text>
+<text id="10024690">Underwater Movement</text>
+<text id="10024691">Mibu breathing technique grants the ability to breathe under water.
+With this power, one can remain under water indefinitely.
+
+&lt;?kgiconKc@17?&gt;: Dive
+&lt;?kgiconKc@19?&gt;: Surface
+&lt;?kgiconKc@5?&gt; while using &lt;?kgMove?&gt;: Underwater Dash</text>
+<text id="10024692">%null%</text>
+<text id="10024693">%null%</text>
+<text id="10024694">%null%</text>
+<text id="10024695">%null%</text>
+<text id="10024696">%null%</text>
+<text id="10024697">%null%</text>
+<text id="10024698">%null%</text>
+<text id="10024699">%null%</text>
+<text id="10024700">Status Abnormalities</text>
+<text id="10024701">"Status Abnormalities" have a variety of negative effects in battle.
+
+Before an abnormality is fully inflicted, a Resistance Gauge is shown.  When the Resistance Gauge is full, Wolf becomes afflicted.
+There are items which suppress the Resistance Gauge or outright cure these abnormalities.
+</text>
+<text id="10024702">%null%</text>
+<text id="10024703">%null%</text>
+<text id="10024704">%null%</text>
+<text id="10024705">%null%</text>
+<text id="10024706">%null%</text>
+<text id="10024707">%null%</text>
+<text id="10024708">%null%</text>
+<text id="10024709">%null%</text>
+<text id="10024710">Safety Roll</text>
+<text id="10024711">To stay down after being knocked to the ground surely means death.
+
+Safety roll can be use to quickly recover from being knocked down or posture-broken.
+
+When posture-broken or knocked down, &lt;?kgiconKc@6?&gt; or &lt;?kgiconKc@5?&gt;: Safety Roll</text>
+<text id="10024712">%null%</text>
+<text id="10024713">%null%</text>
+<text id="10024714">%null%</text>
+<text id="10024715">%null%</text>
+<text id="10024716">%null%</text>
+<text id="10024717">%null%</text>
+<text id="10024718">%null%</text>
+<text id="10024719">%null%</text>
+<text id="10024720">Spirit Emblems</text>
+<text id="10024721">Spirit Emblems are required to activate
+Prosthetic Tools, and are consumed each time these abilities are used.
+
+Spirit Emblems can be obtained from 
+defeated enemies, in the world, and purchased from Sculptor's Idols.
+
+If you pass near them, they will find their way to you.</text>
+<text id="10024740">Offering Box</text>
+<text id="10024741">Items that become unavailable elsewhere end up in the Offering Box.
+
+When the box is illuminated,
+it means an item has found its way inside.
+
+Items can be obtained by inspecting the box and offering money.</text>
+<text id="10024742">%null%</text>
+<text id="10024743">%null%</text>
+<text id="10024744">%null%</text>
+<text id="10024745">%null%</text>
+<text id="10024746">%null%</text>
+<text id="10024747">%null%</text>
+<text id="10024748">%null%</text>
+<text id="10024749">%null%</text>
+<text id="10024750">Posture and Deathblows</text>
+<text id="10024751">A Shinobi aims to break an opponent's posture.  Attacking an enemy is one way to achieve this.
+
+When an enemy's posture breaks, 
+he is vulnerable to a 
+"Shinobi Deathblow".
+&lt;?kgiconKc@16?&gt;: Attack
+&lt;?kgiconKc@16?&gt; after breaking posture: Deathblow</text>
+<text id="10024752">%null%</text>
+<text id="10024753">%null%</text>
+<text id="10024754">%null%</text>
+<text id="10024755">%null%</text>
+<text id="10024756">%null%</text>
+<text id="10024757">%null%</text>
+<text id="10024758">%null%</text>
+<text id="10024759">%null%</text>
+<text id="10024760">Deflection</text>
+<text id="10024761">Sometimes relentless attack is not enough to break an enemy's posture.
+
+Deflecting enemy attacks is another way to damage their posture.  A master shinobi uses a combination of Deflect and attacks to achieve swift victory.
+
+&lt;?kgiconKc@18?&gt; the moment an attack lands: Deflect</text>
+<text id="10024762">%null%</text>
+<text id="10024763">%null%</text>
+<text id="10024764">%null%</text>
+<text id="10024765">%null%</text>
+<text id="10024766">%null%</text>
+<text id="10024767">%null%</text>
+<text id="10024768">%null%</text>
+<text id="10024769">%null%</text>
+<text id="10024770">Lock-on</text>
+<text id="10024771">By locking on to your target
+and keeping your enemy in front of you,
+you'll find it much easier to attack, Deflect, and perform other combat actions.
+
+&lt;?kgiconKc@12?&gt;: Lock-on/Release Target
+&lt;?kgControlCamera?&gt; while locked on: Change Target</text>
+<text id="10024772">%null%</text>
+<text id="10024773">%null%</text>
+<text id="10024774">%null%</text>
+<text id="10024775">%null%</text>
+<text id="10024776">%null%</text>
+<text id="10024777">%null%</text>
+<text id="10024778">%null%</text>
+<text id="10024779">%null%</text>
+<text id="10024780">Shock</text>
+<text id="10024781">"Shock" status abnormality occurs when one is standing on the ground when struck by lightning, dealing major Vitality damage and a stun.
+
+However,  a "Lightning Reversal" will absorb the lightning in mid-air and reflect it back at an enemy.
+&lt;?kgiconKc@18?&gt; when hit by lightning in air: Charge
+&lt;?kgiconKc@16?&gt; before landing: Lightning Reversal</text>
+<text id="10024782">%null%</text>
+<text id="10024783">%null%</text>
+<text id="10024784">%null%</text>
+<text id="10024785">%null%</text>
+<text id="10024786">%null%</text>
+<text id="10024787">%null%</text>
+<text id="10024788">%null%</text>
+<text id="10024789">%null%</text>
+<text id="10024790">Grab Attacks</text>
+<text id="10024791">Grab Attacks cannot be Deflected.
+There is no way to avoid taking serious damage once grabbed.
+
+But if one Jumps or Sprints away, grabs can be avoided.  Some grabs can also be avoided with a well-timed Step Dodge.
+&lt;?kgiconKc@6?&gt; + &lt;?kgMove?&gt;: Jump in desired direction
+Hold &lt;?kgiconKc@5?&gt; + &lt;?kgMove?&gt;: Sprint
+&lt;?kgiconKc@5?&gt;: Step Dodge</text>
+<text id="10024792">%null%</text>
+<text id="10024793">%null%</text>
+<text id="10024794">%null%</text>
+<text id="10024795">%null%</text>
+<text id="10024796">%null%</text>
+<text id="10024797">%null%</text>
+<text id="10024798">%null%</text>
+<text id="10024799">%null%</text>
+<text id="10024800">Loss upon Death</text>
+<text id="10024801">Experience toward the next skill point and current sen in hand are halved upon death.  Everything lost is gone for good.
+
+There are no known means to escape this loss.  
+
+However, through the grace of the gods or Buddha, it may not be impossible...</text>
+<text id="10024802">%null%</text>
+<text id="10024803">%null%</text>
+<text id="10024804">%null%</text>
+<text id="10024805">%null%</text>
+<text id="10024806">%null%</text>
+<text id="10024807">%null%</text>
+<text id="10024808">%null%</text>
+<text id="10024809">%null%</text>
+<text id="10024810">Unseen Aid</text>
+<text id="10024811">Half of Skill Experience and sen are lost upon death, but there is a way to avoid this on rare occasions.
+
+Through the Unseen Aid of gods and Buddha, one may be spared this loss.
+
+The chances of receiving Unseen Aid 
+can be seen in the Pause Menu.
+&lt;?kgiconKc@27?&gt;: Open Pause Menu</text>
+<text id="10024812">%null%</text>
+<text id="10024813">%null%</text>
+<text id="10024814">%null%</text>
+<text id="10024815">%null%</text>
+<text id="10024816">%null%</text>
+<text id="10024817">%null%</text>
+<text id="10024818">%null%</text>
+<text id="10024819">%null%</text>
+<text id="10024820">Dragonrot</text>
+<text id="10024821">The more one with the power of the Dragon's Heritage dies, the more a sickness known as Dragonrot spreads through the world.  
+Dragonrot is not caused by Resurrection,
+it has a chance to occur only when the Wolf truly dies, repeatedly.
+
+The more Rot Essence Wolf has, the lower the chances of receiving Unseen Aid.</text>
+<text id="10024822">%null%</text>
+<text id="10024823">%null%</text>
+<text id="10024824">%null%</text>
+<text id="10024825">%null%</text>
+<text id="10024826">%null%</text>
+<text id="10024827">%null%</text>
+<text id="10024828">%null%</text>
+<text id="10024829">%null%</text>
+<text id="10024830">Dragonrot Restoration</text>
+<text id="10024831">The Recovery Charm allows Dragonrot sufferers to be healed from a Sculptor's Idol.
+
+A Dragon's Blood Droplet can be consumed to heal Dragonrot from all those afflicted.  Doing so will cause all Rot Essence to disappear, returning the chances of receiving Unseen Aid to the default value.</text>
+<text id="10024832">%null%</text>
+<text id="10024833">%null%</text>
+<text id="10024834">%null%</text>
+<text id="10024835">%null%</text>
+<text id="10024836">%null%</text>
+<text id="10024837">%null%</text>
+<text id="10024838">%null%</text>
+<text id="10024839">%null%</text>
+<text id="10024840">Vitality and Posture</text>
+<text id="10024841">The lower one's Vitality, the slower their Posture recovers.  The Posture gauge's color gets redder as recovery rate slows.
+Vitality-damaging techniques such as Dodge Counterattack are ideal against enemies with fast Posture recovery.  Once enemy Vitality is low, Posture-damaging moves become effective.
+&lt;?kgiconKc@5?&gt;: Step Dodge
+&lt;?kgiconKc@16?&gt; after Dodge: Dodge Counterattack</text>
+<text id="10024842">%null%</text>
+<text id="10024843">%null%</text>
+<text id="10024844">%null%</text>
+<text id="10024845">%null%</text>
+<text id="10024846">%null%</text>
+<text id="10024847">%null%</text>
+<text id="10024848">%null%</text>
+<text id="10024849">%null%</text>
+<text id="10024850">Countering Thrust Attacks</text>
+<text id="10024851">Thrust attacks cannot be blocked, 
+but they can be deflected.
+
+The Mikiri Counter skill also counters Thrust attacks, and performing it successfully will deal greater Posture damage than a normal deflect.</text>
+<text id="10024880">Remnants</text>
+<text id="10024881">Shinobi can leave behind shadows of their past actions, known as "Remnants".
+
+Remnants are left to discipline one's peers. Some are masters of the way ahead, others provoke sporting rivalries.
+
+&lt;?kgiconKc@44?&gt;: Open Remnant Menu
+
+Note: A network connection is required to leave Remnants.</text>
+<text id="10024882">%null%</text>
+<text id="10024883">%null%</text>
+<text id="10024884">%null%</text>
+<text id="10024885">%null%</text>
+<text id="10024886">%null%</text>
+<text id="10024887">%null%</text>
+<text id="10024888">%null%</text>
+<text id="10024889">%null%</text>
+<text id="10024890">Reflection of Strength</text>
+<text id="10024891">You have defeated an extraordinary foe, who can now be faced once again in memory.
+
+Reflection of Strength can be accessed via the Sculptor's Idol menu.</text>
+<text id="10024892">%null%</text>
+<text id="10024893">%null%</text>
+<text id="10024894">%null%</text>
+<text id="10024895">%null%</text>
+<text id="10024896">%null%</text>
+<text id="10024897">%null%</text>
+<text id="10024898">%null%</text>
+<text id="10024899">%null%</text>
+<text id="10024900">Gauntlet of Strength</text>
+<text id="10024901">You have defeated many extraordinary foes, who can now be faced in memory as a series of consecutive battles.
+
+Gauntlet of Strength can be accessed via the Sculptor's Idol menu.
+
+Confronting memories of the past is akin to the discovery of new possibilities. 
+The very ends of conflict may afford a new state of mind.</text>
+<text id="10024902">%null%</text>
+<text id="10024903">%null%</text>
+<text id="10024904">%null%</text>
+<text id="10024905">%null%</text>
+<text id="10024906">%null%</text>
+<text id="10024907">%null%</text>
+<text id="10024908">%null%</text>
+<text id="10024909">%null%</text>
+<text id="10024910">Reflection/Gauntlet of Strength</text>
+<text id="10024911">Extraordinary foes you've defeated can now be faced again in memory, either one at a time or as a series of battles.
+
+Reflection and Gauntlet of Strength can be accessed via the Sculptor's idol menu.
+
+Confronting memories of the past is akin to the discovery of new possibilities. 
+The very ends of conflict may afford a new state of mind.</text>
+<text id="10024912">%null%</text>
+<text id="10024913">%null%</text>
+<text id="10024914">%null%</text>
+<text id="10024915">%null%</text>
+<text id="10024916">%null%</text>
+<text id="10024917">%null%</text>
+<text id="10024918">%null%</text>
+<text id="10024919">%null%</text>
+<text id="10024920">Memories of Another</text>
+<text id="10024921">Memories, regrets, or obsessions left by another.  
+
+Harbouring these innermost thoughts at a Sculptor's Idol will allow the Wolf to alter his form, though doing so will have no bearing on his ability.
+
+Taking charge of another's regret is but a fleeting thing, after all.</text>
+<text id="10024922">%null%</text>
+<text id="10024923">%null%</text>
+<text id="10024924">%null%</text>
+<text id="10024925">%null%</text>
+<text id="10024926">%null%</text>
+<text id="10024927">%null%</text>
+<text id="10024928">%null%</text>
+<text id="10024929">%null%</text>
+<text id="10024930">Remnant Reputation</text>
+<text id="10024931">You recover Vitality when someone 
+praises a Remnant you have left.
+
+A shinobi's reputation travels upon the wind.  
+Hearing the wind's whisper provides a precious moment of solace and comfort.
+
+*A network connection is required to gain the benefits of Remnant Reputation
+</text>
+<text id="10025000">Equipment Menu: Quick Items</text>
+<text id="10025001">The Equipment Menu allows you to change your 
+currently equipped Quick Items.
+
+There are 5 slots available to equip and 
+switch out Quick Items as needed.</text>
+<text id="10025002">%null%</text>
+<text id="10025003">%null%</text>
+<text id="10025004">%null%</text>
+<text id="10025005">%null%</text>
+<text id="10025006">%null%</text>
+<text id="10025007">%null%</text>
+<text id="10025008">%null%</text>
+<text id="10025009">%null%</text>
+<text id="10025010">Equipment Menu - Prosthetic Tools</text>
+<text id="10025011">
+Prosthetic Tool equipment slots have been unlocked.
+There are 3 slots available to equip and switch out Prosthetic Tools as needed.  
+
+On the equipment selection screen, the controls can be viewed through &lt;?kgicon@2010?&gt;.</text>
+<text id="10025012">%null%</text>
+<text id="10025013">%null%</text>
+<text id="10025014">%null%</text>
+<text id="10025015">%null%</text>
+<text id="10025016">%null%</text>
+<text id="10025017">%null%</text>
+<text id="10025018">%null%</text>
+<text id="10025019">%null%</text>
+<text id="10025020">Skill Menu</text>
+<text id="10025021">Acquired abilities can be viewed in the Skill menu.
+
+Categories can be selected through &lt;?kgicon@2014?&gt; and &lt;?kgicon@2015?&gt;.
+
+Combat Arts can be equipped through the Equipment Menu.</text>
+<text id="10025022">%null%</text>
+<text id="10025023">%null%</text>
+<text id="10025024">%null%</text>
+<text id="10025025">%null%</text>
+<text id="10025026">%null%</text>
+<text id="10025027">%null%</text>
+<text id="10025028">%null%</text>
+<text id="10025029">%null%</text>
+<text id="10025030">Equipment Menu - Ninjutsu Techniques</text>
+<text id="10025031">Ninjutsu Technique equipment slots have been unlocked.
+
+Only 1 slot is available for selecting a Ninjutsu Technique.</text>
+<text id="10025050">Sculptor's Idol Travel</text>
+<text id="10025051">You can now instantly Travel between Sculptor's Idols that have already been communed with.
+
+Travel can be accessed via the Sculptor's Idol Travel Menu.</text>
+<text id="10025070">Physical Enhancement</text>
+<text id="10025071">The "Enhance Physical Attributes" option has been unlocked in the Sculptor's Idol menu.
+
+Here you can spend four Prayer Beads to create a Prayer Necklace, which will permanently increase your maximum Vitality and Posture.
+
+</text>
+<text id="10025090">Fitting Prosthetic Tools</text>
+<text id="10025091">Regular shinobi tools found in the world can be specially adapted 
+to the Shinobi Prosthetic via the "Fit Prosthetic Tools" menu.</text>
+<text id="10025092">%null%</text>
+<text id="10025093">%null%</text>
+<text id="10025094">%null%</text>
+<text id="10025095">%null%</text>
+<text id="10025096">%null%</text>
+<text id="10025097">%null%</text>
+<text id="10025098">%null%</text>
+<text id="10025099">%null%</text>
+<text id="10025100">Prosthetic Tool Upgrades</text>
+<text id="10025101">In the Prosthetic Tool Upgrade Menu, upgrade materials and sen can be spent to create upgraded versions of Prosthetic Tools.
+
+To upgrade, one must own the base tool and also complete any prerequisite upgrades.  
+
+Older versions of a tool can still be used after upgrading.</text>
+<text id="10025102">%null%</text>
+<text id="10025103">%null%</text>
+<text id="10025104">%null%</text>
+<text id="10025105">%null%</text>
+<text id="10025106">%null%</text>
+<text id="10025107">%null%</text>
+<text id="10025108">%null%</text>
+<text id="10025109">%null%</text>
+<text id="10025110">Acquiring Skills</text>
+<text id="10025111">New skills can be acquired by spending Skill Points in the Skill Menu.  New Combat Styles can be learned through obtaining Esoteric Texts for each style.
+There are 3 types of skills: "Combat Arts", "Shinobi Martial Arts", and "Latent Skills".
+"Combat Arts" must be equipped to be used, but "Shinobi Martial Arts" and "Latent Skills" are always in effect upon being acquired.</text>
+<text id="10025140">Acquiring Skills</text>
+<text id="10025141">The Acquire Skills menu has been unlocked in the Sculptor's Idol menu.
+
+New skills can be learned by spending Skill Points in this menu.</text>
+<text id="10025200">Inventory Menu</text>
+<text id="10025201">Items currently in possession can be viewed through the Inventory Menu.
+
+Categories can be selected through &lt;?kgicon@2014?&gt; and &lt;?kgicon@2015?&gt;.</text>
+<text id="10025202">%null%</text>
+<text id="10025203">%null%</text>
+<text id="10025204">%null%</text>
+<text id="10025205">%null%</text>
+<text id="10025206">%null%</text>
+<text id="10025207">%null%</text>
+<text id="10025208">%null%</text>
+<text id="10025209">%null%</text>
+<text id="10025210">Equipment Menu - Combat Arts</text>
+<text id="10025211">Combat Arts can now be equipped in the Equipment Menu.
+
+Only 1 Combat Art can be equipped at a time.</text>
+<text id="10025212">%null%</text>
+<text id="10025213">%null%</text>
+<text id="10025214">%null%</text>
+<text id="10025215">%null%</text>
+<text id="10025216">%null%</text>
+<text id="10025217">%null%</text>
+<text id="10025218">%null%</text>
+<text id="10025219">%null%</text>
+<text id="10025220">Enhancing Attack Power</text>
+<text id="10025221">The Enhance Attack Power option has been unlocked in the Sculptor's Idol menu.
+
+You can now consume Battle Memories to increase your attack power, causing you to deal more vitality and posture damage with your attacks.</text>
+<text id="10025222">%null%</text>
+<text id="10025223">%null%</text>
+<text id="10025224">%null%</text>
+<text id="10025225">%null%</text>
+<text id="10025226">%null%</text>
+<text id="10025227">%null%</text>
+<text id="10025228">%null%</text>
+<text id="10025229">%null%</text>
+<text id="10025230">Sculptor's Idol Menu</text>
+<text id="10025231">Sculptor's Idols serve as a checkpoint and can be found throughout Ashina.  Resting at a Sculptor's Idol will completely replenish Vitality and restore one use of Resurrection.  Additionally, Quick Items and Spirit Emblems in storage will be added to your current inventory.  
+
+With some exceptions, Resting will also revive defeated enemies.</text>
+<text id="10025232">%null%</text>
+<text id="10025233">%null%</text>
+<text id="10025234">%null%</text>
+<text id="10025235">%null%</text>
+<text id="10025236">%null%</text>
+<text id="10025237">%null%</text>
+<text id="10025238">%null%</text>
+<text id="10025239">%null%</text>
+<text id="10025240">Dragonrot Restoration</text>
+<text id="10025241">The Dragonrot Restoration menu is now unlocked in the Sculptor's Idol menu.
+
+Consuming a "Dragon's Blood Droplet" will
+restore to health all those afflicted with Dragonrot.</text>
+<text id="10025260">Change Form </text>
+<text id="10025261">Change Wolf's appearance from the Change Form Menu.
+
+Regardless of his appearance, Wolf's abilities will be unaffected.
+
+Additional forms will become available by obtaining "Memories of Another".</text>
+<text id="10025262">%null%</text>
+<text id="10025263">%null%</text>
+<text id="10025264">%null%</text>
+<text id="10025265">%null%</text>
+<text id="10025266">%null%</text>
+<text id="10025267">%null%</text>
+<text id="10025268">%null%</text>
+<text id="10025269">%null%</text>
+<text id="10025270">Reflection of Strength</text>
+<text id="10025271">Reflect upon a previously defeated extraordinary foe to fight them once more within Wolf's memories.
+
+During reflection, Wolf's attack power is not tied to his strength in the real world, and any Quick Items and Spirit Emblems used in these battles are reverted to their original states upon returning to reality.</text>
+<text id="10025272">%null%</text>
+<text id="10025273">%null%</text>
+<text id="10025274">%null%</text>
+<text id="10025275">%null%</text>
+<text id="10025276">%null%</text>
+<text id="10025277">%null%</text>
+<text id="10025278">%null%</text>
+<text id="10025279">%null%</text>
+<text id="10025280">Gauntlet of Strength</text>
+<text id="10025281">By reflecting upon his memories, Wolf can perform a series of
+one-on-one battles with extraordinary foes he has defeated 
+in the past.  Defeat at any point will result in a failed attempt, 
+returning Wolf to reality.
+During reflection, Wolf's attack power is not tied to his strength
+in the real world, and Quick Items and Spirit Emblems used 
+will be replenished upon returning to reality.</text>
+<text id="10025300">Changing Form</text>
+<text id="10025301">The Change Form menu has been unlocked.
+
+The Change Form menu allows you to alter your appearance based on the "Memories of Another" in your possession.</text>
+<text id="10025302">%null%</text>
+<text id="10025303">%null%</text>
+<text id="10025304">%null%</text>
+<text id="10025305">%null%</text>
+<text id="10025306">%null%</text>
+<text id="10025307">%null%</text>
+<text id="10025308">%null%</text>
+<text id="10025309">%null%</text>
+<text id="10025310">Reflection of Strength</text>
+<text id="10025311">The Reflection of Strength menu has been unlocked.
+
+From this menu, you can relive battles against extraordinary foes that have been previously defeated.</text>
+<text id="10025312">%null%</text>
+<text id="10025313">%null%</text>
+<text id="10025314">%null%</text>
+<text id="10025315">%null%</text>
+<text id="10025316">%null%</text>
+<text id="10025317">%null%</text>
+<text id="10025318">%null%</text>
+<text id="10025319">%null%</text>
+<text id="10025320">Gauntlet of Strength</text>
+<text id="10025321">The Gauntlet of Strength menu has been unlocked.
+
+From this menu, you can relive battles against extraordinary foes that have been previously defeated, in a series of consecutive battles.</text>
+<text id="10025322">%null%</text>
+<text id="10025323">%null%</text>
+<text id="10025324">%null%</text>
+<text id="10025325">%null%</text>
+<text id="10025326">%null%</text>
+<text id="10025327">%null%</text>
+<text id="10025328">%null%</text>
+<text id="10025329">%null%</text>
+<text id="10025330">Conquering the Gauntlet of Strength</text>
+<text id="10025331">Reflect upon battle memories and fight all extraordinary foes in succession.
+
+There are no rewards to be gained upon completing this grueling life or death struggle.</text>
+<text id="10025332">%null%</text>
+<text id="10025333">%null%</text>
+<text id="10025334">%null%</text>
+<text id="10025335">%null%</text>
+<text id="10025336">%null%</text>
+<text id="10025337">%null%</text>
+<text id="10025338">%null%</text>
+<text id="10025339">%null%</text>
+<text id="10025340">Remnants</text>
+<text id="10025341">Shinobi can leave behind shadows of their past actions, known as "Remnants". 
+Vitality is replenished when one's Remnant is praised by another Shinobi.
+
+Remnants can be recorded via the "Recorded Remnants" tab.  
+Messages can be written to accompany Remnants.
+
+Select a slot and &lt;?kgiconKc@33?&gt;: Record Remnant</text>
+<text id="10025342">%null%</text>
+<text id="10025343">%null%</text>
+<text id="10025344">%null%</text>
+<text id="10025345">%null%</text>
+<text id="10025346">%null%</text>
+<text id="10025347">%null%</text>
+<text id="10025348">%null%</text>
+<text id="10025349">%null%</text>
+<text id="10025350">Viewed Remnants</text>
+<text id="10025351">A list of Remnants that you have viewed is displayed in the "Viewed Remnants" tab.
+
+Viewed remnants can also be praised or scorned here.</text>
+<text id="10025352">%null%</text>
+<text id="10025353">%null%</text>
+<text id="10025354">%null%</text>
+<text id="10025355">%null%</text>
+<text id="10025356">%null%</text>
+<text id="10025357">%null%</text>
+<text id="10025358">%null%</text>
+<text id="10025359">%null%</text>
+<text id="10025360">Leaving Messages</text>
+<text id="10025361">Messages can be written to accompany Remnants.
+
+Messages are written by selecting from predetermined templates and words.
+A second line can also be added by selecting "Message Length".
+
+Select "Record Remnant" to begin recording.</text>
+<text id="10025362">%null%</text>
+<text id="10025363">%null%</text>
+<text id="10025364">%null%</text>
+<text id="10025365">%null%</text>
+<text id="10025366">%null%</text>
+<text id="10025367">%null%</text>
+<text id="10025368">%null%</text>
+<text id="10025369">%null%</text>
+<text id="10025370">New State of Mind Reached</text>
+<text id="10025371">A new state of mind has been uncovered amidst memories of battle.
+
+The extraordinary foe "Inner Genichiro" can now be faced via Reflection of Strength.</text>
+<text id="10025372">%null%</text>
+<text id="10025373">%null%</text>
+<text id="10025374">%null%</text>
+<text id="10025375">%null%</text>
+<text id="10025376">%null%</text>
+<text id="10025377">%null%</text>
+<text id="10025378">%null%</text>
+<text id="10025379">%null%</text>
+<text id="10025380">New State of Mind Reached</text>
+<text id="10025381">A new state of mind has been uncovered amidst memories of battle.
+
+The extraordinary foe "Inner Father" can now be faced via Reflection of Strength.</text>
+<text id="10025382">%null%</text>
+<text id="10025383">%null%</text>
+<text id="10025384">%null%</text>
+<text id="10025385">%null%</text>
+<text id="10025386">%null%</text>
+<text id="10025387">%null%</text>
+<text id="10025388">%null%</text>
+<text id="10025389">%null%</text>
+<text id="10025390">New State of Mind Reached</text>
+<text id="10025391">A new state of mind has been uncovered amidst memories of battle.
+
+The extraordinary foe "Inner Isshin" can now be faced via Reflection of Strength.</text>
+<text id="10090000">Equipment menu</text>
+<text id="10090001">View equipped items and attach new equipment.
+
+From the Arm Tool equip menu, you can check a special attack list for each Arm Tool.</text>
+<text id="10090002">%null%</text>
+<text id="10090003">%null%</text>
+<text id="10090004">%null%</text>
+<text id="10090005">%null%</text>
+<text id="10090006">%null%</text>
+<text id="10090007">%null%</text>
+<text id="10090008">%null%</text>
+<text id="10090009">%null%</text>
+<text id="10090010">Inventory menu</text>
+<text id="10090011">View items in your possession.
+
+Select an item to learn more about it.</text>
+<text id="10090012">%null%</text>
+<text id="10090013">%null%</text>
+<text id="10090014">%null%</text>
+<text id="10090015">%null%</text>
+<text id="10090016">%null%</text>
+<text id="10090017">%null%</text>
+<text id="10090018">%null%</text>
+<text id="10090019">%null%</text>
+<text id="10090020">Map Menu</text>
+<text id="10090021">This menu displays a map of Ashina
+Use this to confirm your current location</text>
+<text id="10090022">%null%</text>
+<text id="10090023">%null%</text>
+<text id="10090024">%null%</text>
+<text id="10090025">%null%</text>
+<text id="10090026">%null%</text>
+<text id="10090027">%null%</text>
+<text id="10090028">%null%</text>
+<text id="10090029">%null%</text>
+<text id="10090030">Options menu</text>
+<text id="10090031">View and change various settings.
+
+Select "Quit Game" to save your progress and quit the game.</text>
+<text id="10090032">%null%</text>
+<text id="10090033">%null%</text>
+<text id="10090034">%null%</text>
+<text id="10090035">%null%</text>
+<text id="10090036">%null%</text>
+<text id="10090037">%null%</text>
+<text id="10090038">%null%</text>
+<text id="10090039">%null%</text>
+<text id="10090040">Equipment menu</text>
+<text id="10090041">Equip Use Items from the Equipment menu.
+
+Select slot then &lt;?kgiconKc@33?&gt;:Equip Use Items</text>
+<text id="10090042">%null%</text>
+<text id="10090043">%null%</text>
+<text id="10090044">%null%</text>
+<text id="10090045">%null%</text>
+<text id="10090046">%null%</text>
+<text id="10090047">%null%</text>
+<text id="10090048">%null%</text>
+<text id="10090049">%null%</text>
+<text id="10090050">Abilities Menu</text>
+<text id="10090051">Use this menu to consume Skill Points
+and learn new Taijutsu/Kenjutsu Skills</text>
+<text id="11000000">YES</text>
+<text id="11000001">NO</text>
+<text id="11000020">Begin Combat Tutorial?</text>
+<text id="11010030">A sturdy blade need not evade</text>
+<text id="11010031">&lt;?kgiconKc@6?&gt; will not help you to avoid attacks
+Use &lt;?kgiconKc@18?&gt; to repel attacks
+rather than trying to evade
+Keep your blade up, and do not take
+to the air like a fool without thought</text>
+<text id="11010060">Shuriken</text>
+<text id="11010061">Shuriken are effective against
+nimble foes such as dogs
+Use Shuriken to fight off the dogs</text>
+<text id="11010062">%null%</text>
+<text id="11010063">%null%</text>
+<text id="11010064">%null%</text>
+<text id="11010065">%null%</text>
+<text id="11010066">%null%</text>
+<text id="11010067">%null%</text>
+<text id="11010068">%null%</text>
+<text id="11010069">%null%</text>
+<text id="11010070">Spinning Back Kick</text>
+<text id="11010071">Use this technique to close the distance
+Approach the enemy with &lt;?kgiconKc@6?&gt;
+and defeat them</text>
+<text id="11010072">%null%</text>
+<text id="11010073">%null%</text>
+<text id="11010074">%null%</text>
+<text id="11010075">%null%</text>
+<text id="11010076">%null%</text>
+<text id="11010077">%null%</text>
+<text id="11010078">%null%</text>
+<text id="11010079">%null%</text>
+<text id="11010080">Critical Counter</text>
+<text id="11010081">Avert thrust attacks with a well-timed kick
+Use &lt;?kgiconKc@5?&gt; to perform a
+Critical Counter and create a
+Ninsatsu opportunity</text>
+<text id="11010082">%null%</text>
+<text id="11010083">%null%</text>
+<text id="11010084">%null%</text>
+<text id="11010085">%null%</text>
+<text id="11010086">%null%</text>
+<text id="11010087">%null%</text>
+<text id="11010088">%null%</text>
+<text id="11010089">%null%</text>
+<text id="11010090">Gale's Edge</text>
+<text id="11010091">Use this technique after throwing Shuriken
+to chase down and cut into the enemy
+Use Gale's Edge to defeat the enemy</text>
+<text id="11100000">Sword attacks</text>
+<text id="11100001">A Shinobi aims to break an opponent's posture.  Attacking an enemy is one way to achieve this.
+
+An enemy with broken posture is vulnerable to a "Shinobi Deathblow".
+"Perform 3 Deathblows after breaking enemy posture"
+&lt;?kgiconKc@16?&gt;: Attack
+&lt;?kgiconKc@16?&gt; after breaking posture: Deathblow</text>
+<text id="11100002">%null%</text>
+<text id="11100003">%null%</text>
+<text id="11100004">%null%</text>
+<text id="11100005">%null%</text>
+<text id="11100006">%null%</text>
+<text id="11100007">%null%</text>
+<text id="11100008">%null%</text>
+<text id="11100009">%null%</text>
+<text id="11100010">Deflect</text>
+<text id="11100011">Sometimes relentless attack is not enough to break an enemy's posture.
+
+Deflecting an enemy's attacks also damages their posture, and a master shinobi will both deflect and attack.
+"Deflect enemy attacks and perform 3 Deathblows."
+&lt;?kgiconKc@18?&gt; the moment an attack lands: Deflect
+&lt;?kgiconKc@16?&gt; after breaking posture: Deathblow</text>
+<text id="11100012">%null%</text>
+<text id="11100013">%null%</text>
+<text id="11100014">%null%</text>
+<text id="11100015">%null%</text>
+<text id="11100016">%null%</text>
+<text id="11100017">%null%</text>
+<text id="11100018">%null%</text>
+<text id="11100019">%null%</text>
+<text id="11100020">Counter-slash</text>
+<text id="11100021">Attack immediately after Deflecting to perform a "Counter-slash".
+
+Doing so will damage enemy Posture without giving them a chance to recover.
+"Alternate between Deflecting and Attacking to perform 3 Deathblows."
+&lt;?kgiconKc@18?&gt; as enemy attack lands: Deflect.
+&lt;?kgiconKc@16?&gt; after Deflecting: Counter-slash</text>
+<text id="11100022">%null%</text>
+<text id="11100023">%null%</text>
+<text id="11100024">%null%</text>
+<text id="11100025">%null%</text>
+<text id="11100026">%null%</text>
+<text id="11100027">%null%</text>
+<text id="11100028">%null%</text>
+<text id="11100029">%null%</text>
+<text id="11100030">Step Dodge</text>
+<text id="11100031">Step Dodge allows one to avoid attacks.
+
+Dodging won't compromise enemy posture, but may help one avoid damage.
+"Evade enemy attacks, then attack and 
+perform 3 Deathblows."
+&lt;?kgiconKc@5?&gt;: Step Dodge
+After dodge, &lt;?kgiconKc@16?&gt;: Dodge Counterattack</text>
+<text id="11100032">%null%</text>
+<text id="11100033">%null%</text>
+<text id="11100034">%null%</text>
+<text id="11100035">%null%</text>
+<text id="11100036">%null%</text>
+<text id="11100037">%null%</text>
+<text id="11100038">%null%</text>
+<text id="11100039">%null%</text>
+<text id="11100040">Vitality and Posture</text>
+<text id="11100041">The lower one's Vitality, the slower their Posture recovers.  For enemies with seemingly unbreakable Posture, use techniques such as Dodge
+
+Counterattack reduces their Vitality, making their Posture easier to break.
+"Perform 3 Deathblows on the enemy."
+&lt;?kgiconKc@5?&gt;: Step Dodge
+ &lt;?kgiconKc@16?&gt; After Step Dodge: Counterattack</text>
+<text id="11100042">%null%</text>
+<text id="11100043">%null%</text>
+<text id="11100044">%null%</text>
+<text id="11100045">%null%</text>
+<text id="11100046">%null%</text>
+<text id="11100047">%null%</text>
+<text id="11100048">%null%</text>
+<text id="11100049">%null%</text>
+<text id="11100050">Countering Thrust Attacks</text>
+<text id="11100051">Thrust attacks cannot be Guarded, but they can be countered by Deflecting or Step Dodging to the side of them.
+
+"Counter enemy attacks to perform 3 Deathblows."
+
+&lt;?kgiconKc@18?&gt; as enemy thrust attack lands: Deflect
+&lt;?kgiconKc@5?&gt;: Step Dodge</text>
+<text id="11100052">%null%</text>
+<text id="11100053">%null%</text>
+<text id="11100054">%null%</text>
+<text id="11100055">%null%</text>
+<text id="11100056">%null%</text>
+<text id="11100057">%null%</text>
+<text id="11100058">%null%</text>
+<text id="11100059">%null%</text>
+<text id="11100060">Countering Sweep Attacks</text>
+<text id="11100061">Sweep attacks cannot be Guarded or Deflected, they must be jumped over to be avoided.
+Jump Kicking an enemy during sweep attacks deals heavy posture damage, often leading directly to a Deathblow.
+"Counter sweep attacks to perform 3 Deathblows."
+&lt;?kgiconKc@6?&gt;: Jump
+&lt;?kgiconKc@6?&gt; in mid-air near enemy: Jump Kick</text>
+<text id="11100062">%null%</text>
+<text id="11100063">%null%</text>
+<text id="11100064">%null%</text>
+<text id="11100065">%null%</text>
+<text id="11100066">%null%</text>
+<text id="11100067">%null%</text>
+<text id="11100068">%null%</text>
+<text id="11100069">%null%</text>
+<text id="11100070">Mikiri Counter</text>
+<text id="11100071">A shinobi can perceive incoming thrust attacks and counter them by stepping on the enemy blade.
+
+Known as "Mikiri Counter", this is a powerful if risky move that deals more Posture damage than a regular Deflect.
+"Use Mikiri Counter to perform 3 Deathblows."</text>
+<text id="11100072">%null%</text>
+<text id="11100073">%null%</text>
+<text id="11100074">%null%</text>
+<text id="11100075">%null%</text>
+<text id="11100076">%null%</text>
+<text id="11100077">%null%</text>
+<text id="11100078">%null%</text>
+<text id="11100079">%null%</text>
+<text id="11100080">Vault Over</text>
+<text id="11100081">If an enemy's posture is broken in combat, "Vault Over" can be used to jump over and behind them to perform a Backstab Deathblow.
+
+"Use Vault Over to perform 3 Backstab Deathblows."
+
+&lt;?kgiconKc@6?&gt; after breaking posture: Vault Over</text>
+<text id="11100082">%null%</text>
+<text id="11100083">%null%</text>
+<text id="11100084">%null%</text>
+<text id="11100085">%null%</text>
+<text id="11100086">%null%</text>
+<text id="11100087">%null%</text>
+<text id="11100088">%null%</text>
+<text id="11100089">%null%</text>
+<text id="11100090">Consecutive Deflections</text>
+<text id="11100091">Deflecting once doesn't always mean 
+an enemy will stop attacking.
+Consecutive attacks can be countered with "Consecutive Deflections", which can greatly damage enemy Posture.
+
+"Deflect all enemy attacks and 
+perform 3 Deathblows."
+&lt;?kgiconKc@18?&gt; as attacks land:
+Consecutive Deflections</text>
+<text id="11101000">Sword Combat</text>
+<text id="11101001">&lt;?kgiconKc@16?&gt;: Attack
+&lt;?kgiconKc@18?&gt; at moment enemy attack lands: Deflect
+&lt;?kgiconKc@16?&gt; on posture-broken enemy: Deathblow</text>
+<text id="11101002">%null%</text>
+<text id="11101003">%null%</text>
+<text id="11101004">%null%</text>
+<text id="11101005">%null%</text>
+<text id="11101006">%null%</text>
+<text id="11101007">%null%</text>
+<text id="11101008">%null%</text>
+<text id="11101009">%null%</text>
+<text id="11101010">Dodge Counterattack</text>
+<text id="11101011">&lt;?kgiconKc@5?&gt;: Step Dodge
+&lt;?kgiconKc@16?&gt; after Dodge: Dodge Counterattack</text>
+<text id="11101012">%null%</text>
+<text id="11101013">%null%</text>
+<text id="11101014">%null%</text>
+<text id="11101015">%null%</text>
+<text id="11101016">%null%</text>
+<text id="11101017">%null%</text>
+<text id="11101018">%null%</text>
+<text id="11101019">%null%</text>
+<text id="11101020">Countering Sweep Attacks</text>
+<text id="11101021">&lt;?kgiconKc@6?&gt;: Jump
+&lt;?kgiconKc@6?&gt; mid-air near enemy: Jump Kick
+&lt;?kgiconKc@16?&gt; in air on posture-broken enemy: Plunging Deathblow</text>
+<text id="11101022">%null%</text>
+<text id="11101023">%null%</text>
+<text id="11101024">%null%</text>
+<text id="11101025">%null%</text>
+<text id="11101026">%null%</text>
+<text id="11101027">%null%</text>
+<text id="11101028">%null%</text>
+<text id="11101029">%null%</text>
+<text id="11101030">Free Combat (Fundamentals)</text>
+<text id="11101031">Practice what you've learned so far.</text>
+<text id="11101032">%null%</text>
+<text id="11101033">%null%</text>
+<text id="11101034">%null%</text>
+<text id="11101035">%null%</text>
+<text id="11101036">%null%</text>
+<text id="11101037">%null%</text>
+<text id="11101038">%null%</text>
+<text id="11101039">%null%</text>
+<text id="11101040">Free Combat (Application)</text>
+<text id="11101041">Deal with a variety of attacks,
+using your training to win the fight.</text>
+<text id="11101042">%null%</text>
+<text id="11101043">%null%</text>
+<text id="11101044">%null%</text>
+<text id="11101045">%null%</text>
+<text id="11101046">%null%</text>
+<text id="11101047">%null%</text>
+<text id="11101048">%null%</text>
+<text id="11101049">%null%</text>
+<text id="11101050">Vitality and Posture (Part 1)</text>
+<text id="11101051">This enemy's Posture recovers quickly.
+Use Dodge Counterattack to reduce their Vitality.  </text>
+<text id="11101052">%null%</text>
+<text id="11101053">%null%</text>
+<text id="11101054">%null%</text>
+<text id="11101055">%null%</text>
+<text id="11101056">%null%</text>
+<text id="11101057">%null%</text>
+<text id="11101058">%null%</text>
+<text id="11101059">%null%</text>
+<text id="11101060">Vitality and Posture (Part 2)</text>
+<text id="11101061">Enemies with low vitality recover posture slowly.
+
+Now focus on breaking Posture and
+performing a Deathblow.</text>
+<text id="11101062">%null%</text>
+<text id="11101063">%null%</text>
+<text id="11101064">%null%</text>
+<text id="11101065">%null%</text>
+<text id="11101066">%null%</text>
+<text id="11101067">%null%</text>
+<text id="11101068">%null%</text>
+<text id="11101069">%null%</text>
+<text id="11101070">Posture Recovery Speed when Guarding</text>
+<text id="11101071">Holding one's Guard causes Posture
+to recover more quickly.
+
+Hold &lt;?kgiconKc@18?&gt;: Guard</text>
+<text id="11101072">%null%</text>
+<text id="11101073">%null%</text>
+<text id="11101074">%null%</text>
+<text id="11101075">%null%</text>
+<text id="11101076">%null%</text>
+<text id="11101077">%null%</text>
+<text id="11101078">%null%</text>
+<text id="11101079">%null%</text>
+<text id="11101080">Powerful Foes in Old Memories</text>
+<text id="11101081">Some foes contained in Wolf's old memories are extremely powerful.
+
+Should they seem insurmountable,
+it's an option to explore elsewhere,
+and revisit upon gaining strength.</text>
+<text id="11102000">&lt;?kgiconKc@16?&gt;: Attack</text>
+<text id="11102001">%null%</text>
+<text id="11102002">%null%</text>
+<text id="11102003">%null%</text>
+<text id="11102004">%null%</text>
+<text id="11102005">%null%</text>
+<text id="11102006">%null%</text>
+<text id="11102007">%null%</text>
+<text id="11102008">%null%</text>
+<text id="11102009">%null%</text>
+<text id="11102010">&lt;?kgiconKc@18?&gt; as enemy attack lands: Deflect</text>
+<text id="11102011">%null%</text>
+<text id="11102012">%null%</text>
+<text id="11102013">%null%</text>
+<text id="11102014">%null%</text>
+<text id="11102015">%null%</text>
+<text id="11102016">%null%</text>
+<text id="11102017">%null%</text>
+<text id="11102018">%null%</text>
+<text id="11102019">%null%</text>
+<text id="11102020">&lt;?kgiconKc@16?&gt; on posture-broken enemy: Deathblow</text>
+<text id="11102021">%null%</text>
+<text id="11102022">%null%</text>
+<text id="11102023">%null%</text>
+<text id="11102024">%null%</text>
+<text id="11102025">%null%</text>
+<text id="11102026">%null%</text>
+<text id="11102027">%null%</text>
+<text id="11102028">%null%</text>
+<text id="11102029">%null%</text>
+<text id="11102030">&lt;?kgiconKc@18?&gt; as thrust lands: Deflect</text>
+<text id="11102031">%null%</text>
+<text id="11102032">%null%</text>
+<text id="11102033">%null%</text>
+<text id="11102034">%null%</text>
+<text id="11102035">%null%</text>
+<text id="11102036">%null%</text>
+<text id="11102037">%null%</text>
+<text id="11102038">%null%</text>
+<text id="11102039">%null%</text>
+<text id="11102040">&lt;?kgiconKc@5?&gt; as thrust lands: Mikiri Counter</text>
+<text id="11102041">%null%</text>
+<text id="11102042">%null%</text>
+<text id="11102043">%null%</text>
+<text id="11102044">%null%</text>
+<text id="11102045">%null%</text>
+<text id="11102046">%null%</text>
+<text id="11102047">%null%</text>
+<text id="11102048">%null%</text>
+<text id="11102049">%null%</text>
+<text id="11102050">&lt;?kgiconKc@6?&gt; on posture-broken enemy: Vault Over</text>
+<text id="11102051">%null%</text>
+<text id="11102052">%null%</text>
+<text id="11102053">%null%</text>
+<text id="11102054">%null%</text>
+<text id="11102055">%null%</text>
+<text id="11102056">%null%</text>
+<text id="11102057">%null%</text>
+<text id="11102058">%null%</text>
+<text id="11102059">%null%</text>
+<text id="11102060">&lt;?kgiconKc@5?&gt;: Step Dodge</text>
+<text id="11102061">%null%</text>
+<text id="11102062">%null%</text>
+<text id="11102063">%null%</text>
+<text id="11102064">%null%</text>
+<text id="11102065">%null%</text>
+<text id="11102066">%null%</text>
+<text id="11102067">%null%</text>
+<text id="11102068">%null%</text>
+<text id="11102069">%null%</text>
+<text id="11102070">&lt;?kgiconKc@16?&gt; after Dodge: Dodge Counterattack</text>
+<text id="11102071">%null%</text>
+<text id="11102072">%null%</text>
+<text id="11102073">%null%</text>
+<text id="11102074">%null%</text>
+<text id="11102075">%null%</text>
+<text id="11102076">%null%</text>
+<text id="11102077">%null%</text>
+<text id="11102078">%null%</text>
+<text id="11102079">%null%</text>
+<text id="11102080">%null%</text>
+<text id="11102081">%null%</text>
+<text id="11102082">%null%</text>
+<text id="11102083">%null%</text>
+<text id="11102084">%null%</text>
+<text id="11102085">%null%</text>
+<text id="11102086">%null%</text>
+<text id="11102087">%null%</text>
+<text id="11102088">%null%</text>
+<text id="11102089">%null%</text>
+<text id="11102090">%null%</text>
+<text id="11102091">%null%</text>
+<text id="11102092">%null%</text>
+<text id="11102093">%null%</text>
+<text id="11102094">%null%</text>
+<text id="11102095">%null%</text>
+<text id="11102096">%null%</text>
+<text id="11102097">%null%</text>
+<text id="11102098">%null%</text>
+<text id="11102099">%null%</text>
+<text id="11102100">%null%</text>
+<text id="12000000">Turn back if you value your life.
+You can't behead the headless.
+Our swords and pikes did nothing.</text>
+<text id="12000001">Temple Posting</text>
+<text id="12000002">%null%</text>
+<text id="12000003">%null%</text>
+<text id="12000004">%null%</text>
+<text id="12000005">%null%</text>
+<text id="12000006">%null%</text>
+<text id="12000007">%null%</text>
+<text id="12000008">%null%</text>
+<text id="12000009">%null%</text>
+<text id="12000010">Hanging Scroll of an Old Battle</text>
+<text id="12000011">Ghosts once lurked the lands of Ashina.
+The ghosts' lightning was of the
+Fountainhead gods, unstoppable by
+normal means.
+Avoid ground, reverse the lightning.</text>
+<text id="12000012">%null%</text>
+<text id="12000013">%null%</text>
+<text id="12000014">%null%</text>
+<text id="12000015">%null%</text>
+<text id="12000016">%null%</text>
+<text id="12000017">%null%</text>
+<text id="12000018">%null%</text>
+<text id="12000019">%null%</text>
+<text id="12000020">Crumbling Offering Tower</text>
+<text id="12000021">Here lie the vassals of the Ashina Clan
+executed after the great rebellion.
+
+May their spirits rest.</text>
+<text id="12000022">%null%</text>
+<text id="12000023">%null%</text>
+<text id="12000024">%null%</text>
+<text id="12000025">%null%</text>
+<text id="12000026">%null%</text>
+<text id="12000027">%null%</text>
+<text id="12000028">%null%</text>
+<text id="12000029">%null%</text>
+<text id="12000030">Sunken Valley Clan Document</text>
+<text id="12000031">The Sunken Valley Clan worship the 
+Great Serpent, and shoot strangers 
+on sight.  The "Snake Eyes" are a feared,
+elite group of women snipers known for
+hitting targets at impossible distances.</text>
+<text id="12000230">Emma,</text>
+<text id="12000231">     I have business to attend to.
+     Everything is under control.</text>
+<text id="12000232">%null%</text>
+<text id="12000233">%null%</text>
+<text id="12000234">%null%</text>
+<text id="12000235">%null%</text>
+<text id="12000236">%null%</text>
+<text id="12000237">%null%</text>
+<text id="12000238">%null%</text>
+<text id="12000239">%null%</text>
+<text id="12000240">Sekiro,</text>
+<text id="12000241">At Sunken Valley entrance.
+Much activity near Great Serpent Shrine.
+The Tengu has rats to see to.</text>
+<text id="12000242">%null%</text>
+<text id="12000243">%null%</text>
+<text id="12000244">%null%</text>
+<text id="12000245">%null%</text>
+<text id="12000246">%null%</text>
+<text id="12000247">%null%</text>
+<text id="12000248">%null%</text>
+<text id="12000249">%null%</text>
+<text id="12000250">Muddy Hall Note</text>
+<text id="12000251">There is mud everywhere here.
+
+Mud splashes about when you walk.
+Mud will splash around, regardless as to
+who is walking.</text>
+<text id="12000252">Muddy Hall Posting</text>
+<text id="12000253">Mud!  Mud, everywhere.
+
+Doesn't matter who it is, they splash mud.
+Splash it everywhere.
+
+The seeing monkey splashes it, 
+so does the hearing monkey, the speaking
+monkey, and the                               too …</text>
+<text id="12000254">%null%</text>
+<text id="12000255">%null%</text>
+<text id="12000256">%null%</text>
+<text id="12000257">%null%</text>
+<text id="12000258">%null%</text>
+<text id="12000259">%null%</text>
+<text id="12000260">Roaring Hall Posting</text>
+<text id="12000261">The noise of the Roaring Waterfall 
+is deafening.
+Surely no one can hear anything else 
+in here.</text>
+<text id="12000262">Roaring Hall Posting</text>
+<text id="12000263">The roaring waterfall is deafening.
+
+Surely none could hear anything else 
+in here.</text>
+<text id="12000264">%null%</text>
+<text id="12000265">%null%</text>
+<text id="12000266">%null%</text>
+<text id="12000267">%null%</text>
+<text id="12000268">%null%</text>
+<text id="12000269">%null%</text>
+<text id="12000270">Lamplit Hall Posting</text>
+<text id="12000271">A flame in the wind.
+Snuff the flame, and this place is 
+dark as night.</text>
+<text id="12000272">Lamplit Hall Posting</text>
+<text id="12000273">The dim light is snuffed out all too easily,
+much like a flame in the wind.
+
+When that happens, this place is 
+dark as night.
+The darkness begets fear and uncertainty,
+even for those with the sharpest of eyes.</text>
+<text id="12000274">Light Hall Note</text>
+<text id="12000275">A bare flame in the wind.
+When it goes out, the place 
+becomes dark as night.</text>
+<text id="12000276">%null%</text>
+<text id="12000277">%null%</text>
+<text id="12000278">%null%</text>
+<text id="12000279">%null%</text>
+<text id="12000280">Abyss Hall Note</text>
+<text id="12000281">Below is an abyss.  
+The bottom cannot be seen.
+
+Above is darkness.  
+Nothing can be seen.</text>
+<text id="12000282">Abyss Hall Note</text>
+<text id="12000283">Below is an abyss.
+Above is darkness.
+
+Climbing up leads to the 
+blinding darkness.
+The darkness begets fear 
+and uncertainty, even for those 
+with the sharpest of eyes.</text>
+<text id="12000284">Abyss Hall Note</text>
+<text id="12000285">Below is an abyss.  
+The bottom cannot be seen.
+
+Above is darkness.  
+Nothing can be seen.</text>
+<text id="12000286">%null%</text>
+<text id="12000287">%null%</text>
+<text id="12000288">%null%</text>
+<text id="12000289">%null%</text>
+<text id="12000290">Altar of the Shelter stone</text>
+<text id="12000291">Shelter stones such as this 
+are an auspicious omen,
+sweetly scented for a bridal offering.
+
+The palanquin awaits with open arms.</text>
+<text id="12000292">%null%</text>
+<text id="12000293">%null%</text>
+<text id="12000294">%null%</text>
+<text id="12000295">%null%</text>
+<text id="12000296">%null%</text>
+<text id="12000297">%null%</text>
+<text id="12000298">%null%</text>
+<text id="12000299">%null%</text>
+<text id="12000300">Tengu's Letter</text>
+<text id="12000301">The rats chitter and multiply
+near the Great Serpent Shrine.
+The Tengu will see to these vermin.
+
+Sekiro, you're welcome to join me there.</text>
+<text id="12000302">%null%</text>
+<text id="12000303">%null%</text>
+<text id="12000304">%null%</text>
+<text id="12000305">%null%</text>
+<text id="12000306">%null%</text>
+<text id="12000307">%null%</text>
+<text id="12000308">%null%</text>
+<text id="12000309">%null%</text>
+<text id="12000310">Divine Heir's Letter</text>
+<text id="12000311">Wolf,
+
+Found something.
+I've opened the library.  Meet me there.
+
+                                                      Kuro</text>
+<text id="12000312">%null%</text>
+<text id="12000313">%null%</text>
+<text id="12000314">%null%</text>
+<text id="12000315">%null%</text>
+<text id="12000316">%null%</text>
+<text id="12000317">%null%</text>
+<text id="12000318">%null%</text>
+<text id="12000319">%null%</text>
+<text id="12000320">Deafening Bell Note</text>
+<text id="12000321">This bell is deafening.
+Ringing it recklessly will also 
+make your ears ring.</text>
+<text id="12000322">%null%</text>
+<text id="12000323">%null%</text>
+<text id="12000324">%null%</text>
+<text id="12000325">%null%</text>
+<text id="12000326">%null%</text>
+<text id="12000327">%null%</text>
+<text id="12000328">%null%</text>
+<text id="12000329">%null%</text>
+<text id="12000330">Shinobi Path Note</text>
+<text id="12000331">Shinobi Escape Route
+Leads to Demon Bell</text>
+<text id="12000332">%null%</text>
+<text id="12000333">%null%</text>
+<text id="12000334">%null%</text>
+<text id="12000335">%null%</text>
+<text id="12000336">%null%</text>
+<text id="12000337">%null%</text>
+<text id="12000338">%null%</text>
+<text id="12000339">%null%</text>
+<text id="12000340">Bell Inscription</text>
+<text id="12000341">Do not ring this bell.
+
+Inviting misfortune is an act of virtue, 
+but only the stoutest of heart should 
+ever consider it.</text>
+<text id="12001000">Spend Skill Points to enhance Attack Power?</text>
+<text id="12001001">%null%</text>
+<text id="12001002">%null%</text>
+<text id="12001003">%null%</text>
+<text id="12001004">%null%</text>
+<text id="12001005">%null%</text>
+<text id="12001006">%null%</text>
+<text id="12001007">%null%</text>
+<text id="12001008">%null%</text>
+<text id="12001009">%null%</text>
+<text id="12001010">Restore those afflicted with Dragonrot?</text>
+<text id="12001011">%null%</text>
+<text id="12001012">%null%</text>
+<text id="12001013">%null%</text>
+<text id="12001014">%null%</text>
+<text id="12001015">%null%</text>
+<text id="12001016">%null%</text>
+<text id="12001017">%null%</text>
+<text id="12001018">%null%</text>
+<text id="12001019">%null%</text>
+<text id="12001020">Quit battle and return to original Sculptor's Idol?
+(No progress will be lost)</text>
+<text id="12001021">%null%</text>
+<text id="12001022">%null%</text>
+<text id="12001023">%null%</text>
+<text id="12001024">%null%</text>
+<text id="12001025">%null%</text>
+<text id="12001026">%null%</text>
+<text id="12001027">%null%</text>
+<text id="12001028">%null%</text>
+<text id="12001029">%null%</text>
+<text id="12001030">Quit Gauntlet and return to Sculptor's Idol?
+(Gauntlet progress will be lost)</text>
+<text id="12001031">%null%</text>
+<text id="12001032">%null%</text>
+<text id="12001033">%null%</text>
+<text id="12001034">%null%</text>
+<text id="12001035">%null%</text>
+<text id="12001036">%null%</text>
+<text id="12001037">%null%</text>
+<text id="12001038">%null%</text>
+<text id="12001039">%null%</text>
+<text id="12001040">Attack power is at maximum and cannot be upgraded further.
+Convert the battle Memory to a Remnant?</text>
+<text id="12010000">Change costume</text>
+<text id="12010100">Are you sure you want to take back the charm,
+and avoid the path of additional hardships? 
+(This decision cannot be undone for this playthrough.)</text>
+<text id="12011100">Walk the path of additional hardships?</text>
+<text id="12014000">Pay &lt;?evntAcquittalPrice?&gt; sen to purchase Dragon's Blood Droplet?</text>
+<text id="12017002">Tell him what the Ashina Samurai need?</text>
+<text id="12017003">Pay &lt;?evntAcquittalPrice?&gt; sen to purchase information?</text>
+<text id="12022000">Give Scriptures of the Senpou Temple High Priest?</text>
+<text id="12022001">Give persimmon?</text>
+<text id="12022002">Give Taro Persimmon?</text>
+<text id="12023000">Consume Resurrective Power to create Dragonrot Pellet?</text>
+<text id="12023001">Consume Gourd Seed to increase maximum uses of Healing Gourd?</text>
+<text id="12023002">Give Dragonrot Blood Sample?</text>
+<text id="12090000">You will be unable to return to the current playthrough #(&lt;?loopCount?&gt;) 
+after starting the next playthrough (&lt;?nextLoopCount?&gt;).
+Are you sure you want to start the next playthrough #(&lt;?nextLoopCount?&gt;)?</text>
+<text id="12095000">Give Ashina Sake?</text>
+<text id="12095001">Give Unrefined Sake?</text>
+<text id="12095002">Give Monkey Booze?</text>
+<text id="12095003">Give Dragonspring Sake?</text>
+<text id="12095004">Give Ashina Sake?</text>
+<text id="12095005">Give Unrefined Sake?</text>
+<text id="12095006">%null%</text>
+<text id="12095007">%null%</text>
+<text id="12095008">%null%</text>
+<text id="12095009">%null%</text>
+<text id="12095010">Give Dragonrot Pellet?</text>
+<text id="13000000">You don't have any Gourd Seeds.</text>
+<text id="13000001">Consume Gourd Seed to increase maximum uses of Healing Gourd?</text>
+<text id="13000002">Maximum Healing Gourd uses increased.</text>
+<text id="13000003">The Healing Gourd cannot be upgraded further.</text>
+<text id="13000004">%null%</text>
+<text id="13000005">%null%</text>
+<text id="13000006">%null%</text>
+<text id="13000007">%null%</text>
+<text id="13000008">%null%</text>
+<text id="13000009">%null%</text>
+<text id="13000010">You don't have the &lt;?evntAcquittalPrice?&gt; Prayer Beads required.</text>
+<text id="13000011">Consume &lt;?evntAcquittalPrice?&gt; Prayer Beads to Enhance Physical Attributes?</text>
+<text id="13000012">Physical attributes enhanced.  
+Maximum Vitality and Posture have increased.</text>
+<text id="13000013">Physical attributes cannot be enhanced any further.</text>
+<text id="13000014">%null%</text>
+<text id="13000015">%null%</text>
+<text id="13000016">%null%</text>
+<text id="13000017">%null%</text>
+<text id="13000018">%null%</text>
+<text id="13000019">%null%</text>
+<text id="13000020">Not enough sen to suppress stagnation.  
+&lt;?evntAcquittalPrice?&gt; sen is required.</text>
+<text id="13000021">Spend &lt;?evntAcquittalPrice?&gt; sen to suppress stagnation?</text>
+<text id="13000022">Stagnation has been suppressed</text>
+<text id="13000023">The Dragon's Blood is not currently stagnated</text>
+<text id="13000024">%null%</text>
+<text id="13000025">%null%</text>
+<text id="13000026">%null%</text>
+<text id="13000027">%null%</text>
+<text id="13000028">%null%</text>
+<text id="13000029">%null%</text>
+<text id="13000030">You equipped the &lt;?gdsparam@2100?&gt;</text>
+<text id="13000031">You equipped the &lt;?gdsparam@2110?&gt;</text>
+<text id="13000032">You equipped the &lt;?gdsparam@2120?&gt;</text>
+<text id="13000033">%null%</text>
+<text id="13000034">%null%</text>
+<text id="13000035">%null%</text>
+<text id="13000036">%null%</text>
+<text id="13000037">%null%</text>
+<text id="13000038">%null%</text>
+<text id="13000039">%null%</text>
+<text id="13000040">Attack Power has been enhanced.</text>
+<text id="13000041">Attack Power cannot be enhanced further.</text>
+<text id="13000042">You don't have any Battle Memories.</text>
+<text id="13000043">%null%</text>
+<text id="13000044">%null%</text>
+<text id="13000045">%null%</text>
+<text id="13000046">%null%</text>
+<text id="13000047">%null%</text>
+<text id="13000048">%null%</text>
+<text id="13000049">%null%</text>
+<text id="13000050">Not enough Skill Points.</text>
+<text id="13000051">Skill Points spent, Attack Power enhanced.</text>
+<text id="13000052">Attack Power has been increased to maximum possible value.</text>
+<text id="13000053">%null%</text>
+<text id="13000054">%null%</text>
+<text id="13000055">%null%</text>
+<text id="13000056">%null%</text>
+<text id="13000057">%null%</text>
+<text id="13000058">%null%</text>
+<text id="13000059">%null%</text>
+<text id="13000060">All afflicted with Dragonrot have been restored to health.</text>
+<text id="13000061">%null%</text>
+<text id="13000062">%null%</text>
+<text id="13000063">%null%</text>
+<text id="13000064">%null%</text>
+<text id="13000065">%null%</text>
+<text id="13000066">%null%</text>
+<text id="13000067">%null%</text>
+<text id="13000068">%null%</text>
+<text id="13000069">%null%</text>
+<text id="13000070">You do not have any &lt;?gdsparam@5600?&gt;s.</text>
+<text id="13000071">%null%</text>
+<text id="13000072">%null%</text>
+<text id="13000073">%null%</text>
+<text id="13000074">%null%</text>
+<text id="13000075">%null%</text>
+<text id="13000076">%null%</text>
+<text id="13000077">%null%</text>
+<text id="13000078">%null%</text>
+<text id="13000079">%null%</text>
+<text id="13000080">No one is afflicted with Dragonrot.</text>
+<text id="13001700">Not enough sen.</text>
+<text id="13010000">You do not have any Shinobi Tools to fit to the Shinobi Prosthetic.</text>
+<text id="13010001">%null%</text>
+<text id="13010002">%null%</text>
+<text id="13010003">%null%</text>
+<text id="13010004">%null%</text>
+<text id="13010005">%null%</text>
+<text id="13010006">%null%</text>
+<text id="13010007">%null%</text>
+<text id="13010008">%null%</text>
+<text id="13010009">%null%</text>
+<text id="13010010">None of your Prosthetic Tools can be upgraded.</text>
+<text id="13010011">%null%</text>
+<text id="13010012">%null%</text>
+<text id="13010013">%null%</text>
+<text id="13010014">%null%</text>
+<text id="13010015">%null%</text>
+<text id="13010016">%null%</text>
+<text id="13010017">%null%</text>
+<text id="13010018">%null%</text>
+<text id="13010019">%null%</text>
+<text id="13010020">Attack the enemy to break their Posture.
+The red marker signifies when a Deathblow is possible.
+
+&lt;?kgiconKc@16?&gt;:Attack
+&lt;?kgiconKc@16?&gt; on staggered enemy:Shinobi Deathblow</text>
+<text id="13010021">%null%</text>
+<text id="13010022">%null%</text>
+<text id="13010023">%null%</text>
+<text id="13010024">%null%</text>
+<text id="13010025">%null%</text>
+<text id="13010026">%null%</text>
+<text id="13010027">%null%</text>
+<text id="13010028">%null%</text>
+<text id="13010029">%null%</text>
+<text id="13010030">Deflect enemy attacks to break their Posture.
+The red marker signifies when a Deathblow is possible.
+
+&lt;?kgiconKc@18?&gt; in time with enemy attack:Deflect
+&lt;?kgiconKc@16?&gt; on staggered enemy:Shinobi Deathblow</text>
+<text id="13010031">%null%</text>
+<text id="13010032">%null%</text>
+<text id="13010033">%null%</text>
+<text id="13010034">%null%</text>
+<text id="13010035">%null%</text>
+<text id="13010036">%null%</text>
+<text id="13010037">%null%</text>
+<text id="13010038">%null%</text>
+<text id="13010039">%null%</text>
+<text id="13010040">Deal Posture damage to an enemy
+to fill the gauge and stagger them,
+allowing you to deal the finishing blow.
+
+Alternate attack and defence to weaken
+enemy posture and create Deathblow opportunities.
+
+&lt;?kgiconKc@16?&gt;:Attack
+&lt;?kgiconKc@16?&gt; on staggered enemy:Shinobi Deathblow</text>
+<text id="13010041">%null%</text>
+<text id="13010042">%null%</text>
+<text id="13010043">%null%</text>
+<text id="13010044">%null%</text>
+<text id="13010045">%null%</text>
+<text id="13010046">%null%</text>
+<text id="13010047">%null%</text>
+<text id="13010048">%null%</text>
+<text id="13010049">%null%</text>
+<text id="13010050">Next, try consecutive use of attack and deflect.
+
+Through consecutive attack and deflect,
+you can inflict Posture damage effectively,
+leaving the enemy little time to recover.
+
+&lt;?kgiconKc@16?&gt;:Attack
+&lt;?kgiconKc@18?&gt; in time with enemy attack:Deflect</text>
+<text id="13010051">%null%</text>
+<text id="13010052">%null%</text>
+<text id="13010053">%null%</text>
+<text id="13010054">%null%</text>
+<text id="13010055">%null%</text>
+<text id="13010056">%null%</text>
+<text id="13010057">%null%</text>
+<text id="13010058">%null%</text>
+<text id="13010059">%null%</text>
+<text id="13010060">Try to evade enemy attacks
+and then answer with an attack of your own.
+
+Enemies are vulnerable for a moment after attacking,
+creating counter-attack opportunities.
+
+&lt;?kgiconKc@5?&gt;:Step
+&lt;?kgiconKc@16?&gt; after evading:Attack</text>
+<text id="13010061">%null%</text>
+<text id="13010062">%null%</text>
+<text id="13010063">%null%</text>
+<text id="13010064">%null%</text>
+<text id="13010065">%null%</text>
+<text id="13010066">%null%</text>
+<text id="13010067">%null%</text>
+<text id="13010068">%null%</text>
+<text id="13010069">%null%</text>
+<text id="13010070">"DANGER!" indicates an attack that cannot be guarded against.
+
+Deal with thrust attacks by deflecting them.
+
+&lt;?kgiconKc@18?&gt; in time with enemy attack:Deflect</text>
+<text id="13010071">%null%</text>
+<text id="13010072">%null%</text>
+<text id="13010073">%null%</text>
+<text id="13010074">%null%</text>
+<text id="13010075">%null%</text>
+<text id="13010076">%null%</text>
+<text id="13010077">%null%</text>
+<text id="13010078">%null%</text>
+<text id="13010079">%null%</text>
+<text id="13010080">"DANGER!" indicates an attack that cannot be guarded against.
+Sweep attacks can be evaded by jumping.
+Kick off the enemy in mid-air to inflict heavy Posture damage.
+If this causes the enemy to stagger,
+you can follow immediately with a Plunging Deathblow.
+
+&lt;?kgiconKc@6?&gt;:Jump
+&lt;?kgiconKc@6?&gt; in mid-air:Kick
+&lt;?kgiconKc@16?&gt; in mid-air on staggered enemy:Plunging Deathblow</text>
+<text id="13010081">%null%</text>
+<text id="13010082">%null%</text>
+<text id="13010083">%null%</text>
+<text id="13010084">%null%</text>
+<text id="13010085">%null%</text>
+<text id="13010086">%null%</text>
+<text id="13010087">%null%</text>
+<text id="13010088">%null%</text>
+<text id="13010089">%null%</text>
+<text id="13010090">Use everything you've practiced so far to defeat the enemy.</text>
+<text id="13010091">%null%</text>
+<text id="13010092">%null%</text>
+<text id="13010093">%null%</text>
+<text id="13010094">%null%</text>
+<text id="13010095">%null%</text>
+<text id="13010096">%null%</text>
+<text id="13010097">%null%</text>
+<text id="13010098">%null%</text>
+<text id="13010099">%null%</text>
+<text id="13010100">You will not experience additional hardships in this playthrough.</text>
+<text id="13010101">Gave Mechanical Barrel.</text>
+<text id="13010102">Mechanical Barrel fitted to Shinobi Prosthetic.</text>
+<text id="13010103">Old memories must be experienced in a certain order.
+It seems there's another bell that must be used first.</text>
+<text id="13010104">This Buddha has a kind look to it.
+Perhaps an offering of some sort should be made.</text>
+<text id="13011000">The Divine Heir must not be left behind.</text>
+<text id="13011011">The burner smells faintly of sakura flowers.</text>
+<text id="13011100">You have chosen the path of further hardships.</text>
+<text id="13011101">%null%</text>
+<text id="13011102">%null%</text>
+<text id="13011103">%null%</text>
+<text id="13011104">%null%</text>
+<text id="13011105">%null%</text>
+<text id="13011106">%null%</text>
+<text id="13011107">%null%</text>
+<text id="13011108">%null%</text>
+<text id="13011109">%null%</text>
+<text id="13011110">Gave Rice to Kuro.</text>
+<text id="13011111">%null%</text>
+<text id="13011112">%null%</text>
+<text id="13011113">%null%</text>
+<text id="13011114">%null%</text>
+<text id="13011115">%null%</text>
+<text id="13011116">%null%</text>
+<text id="13011117">%null%</text>
+<text id="13011118">%null%</text>
+<text id="13011119">%null%</text>
+<text id="13011120">Additional Resurrective Power granted.</text>
+<text id="13011121">No Sakura Droplets in your possession.</text>
+<text id="13011122">This cannot be upgraded further.</text>
+<text id="13012200">No destinations to introduce</text>
+<text id="13013000">Free Combat is now available.</text>
+<text id="13013001">New Undying Samurai Training is available</text>
+<text id="13013002">%null%</text>
+<text id="13013003">Undying Samurai Training "Mikiri Counter" unlocked</text>
+<text id="13013004">Undying Samurai Training "Vault Over" unlocked</text>
+<text id="13013005">New training option available</text>
+<text id="13013006">Free Combat is now available.</text>
+<text id="13013007">New training option available</text>
+<text id="13013008">Undying Samurai Training "Mikiri Counter" unlocked</text>
+<text id="13013009">Undying Samurai Training "Vault Over" unlocked</text>
+<text id="13013010">Free Combat is now available.</text>
+<text id="13017000">Anayama paid you &lt;?evntAcquittalPrice?&gt; sen.</text>
+<text id="13017001">Paid &lt;?evntAcquittalPrice?&gt; sen.</text>
+<text id="13022000">You don't have any persimmons.</text>
+<text id="13023003">You don't have any Gourd Seeds.</text>
+<text id="13023004">Maximum Healing Gourd uses increased by 1.</text>
+<text id="13023005">Healing Gourd cannot be upgraded further.</text>
+<text id="13023006">Gave Dragonrot Blood Sample.</text>
+<text id="13024000">Gauntlet of Strength: "Divine Heir" path has been unlocked</text>
+<text id="13024001">%null%</text>
+<text id="13024002">%null%</text>
+<text id="13024003">%null%</text>
+<text id="13024004">%null%</text>
+<text id="13024005">%null%</text>
+<text id="13024006">%null%</text>
+<text id="13024007">%null%</text>
+<text id="13024008">%null%</text>
+<text id="13024009">%null%</text>
+<text id="13024010">Gauntlet of Strength: "Shura" path has been unlocked</text>
+<text id="13024011">%null%</text>
+<text id="13024012">%null%</text>
+<text id="13024013">%null%</text>
+<text id="13024014">%null%</text>
+<text id="13024015">%null%</text>
+<text id="13024016">%null%</text>
+<text id="13024017">%null%</text>
+<text id="13024018">%null%</text>
+<text id="13024019">%null%</text>
+<text id="13024020">Gauntlet of Strength: "Severance" path has been unlocked</text>
+<text id="13024021">%null%</text>
+<text id="13024022">%null%</text>
+<text id="13024023">%null%</text>
+<text id="13024024">%null%</text>
+<text id="13024025">%null%</text>
+<text id="13024026">%null%</text>
+<text id="13024027">%null%</text>
+<text id="13024028">%null%</text>
+<text id="13024029">%null%</text>
+<text id="13024030">Gauntlet of Strength: "Mortal Journey" path has been unlocked</text>
+<text id="14000000">Give Dragonrot Pellet</text>
+<text id="14000001">Say nothing</text>
+<text id="14000002">Take coughed up blood sample</text>
+<text id="14000003">Do nothing</text>
+<text id="14000100">Give Divine Dragon's Tears</text>
+<text id="14000101">Give Dragon's Tears and Everblossom </text>
+<text id="14000102">Give Dragon Tears and Frozen Tears</text>
+<text id="14000500">Use Precious Bait</text>
+<text id="14000501">Select Truly Precious Bait</text>
+<text id="14000502">Leave</text>
+<text id="14000503">Pot Noble Harunaga's Bait</text>
+<text id="14000504">Pot Noble Koremori's Bait</text>
+<text id="14010000">Ask what the Buddha showed him</text>
+<text id="14010001">Say nothing</text>
+<text id="14010002">%null%</text>
+<text id="14010003">%null%</text>
+<text id="14010004">%null%</text>
+<text id="14010005">%null%</text>
+<text id="14010006">%null%</text>
+<text id="14010007">%null%</text>
+<text id="14010008">%null%</text>
+<text id="14010009">%null%</text>
+<text id="14010010">Take Kuro's Charm back</text>
+<text id="14010011">Let him keep Kuro's Charm</text>
+<text id="14011000">Give Kuro's Charm</text>
+<text id="14011001">Do nothing</text>
+<text id="14011002">%null%</text>
+<text id="14011003">%null%</text>
+<text id="14011004">%null%</text>
+<text id="14011005">%null%</text>
+<text id="14011006">%null%</text>
+<text id="14011007">%null%</text>
+<text id="14011008">%null%</text>
+<text id="14011009">%null%</text>
+<text id="14011010">Insist he take it</text>
+<text id="14011011">Keep it in your care</text>
+<text id="14011012">%null%</text>
+<text id="14011013">%null%</text>
+<text id="14011014">%null%</text>
+<text id="14011015">%null%</text>
+<text id="14011016">%null%</text>
+<text id="14011017">%null%</text>
+<text id="14011018">%null%</text>
+<text id="14011019">%null%</text>
+<text id="14011020">Help Kuro</text>
+<text id="14011021">Obey the Iron Code, protect Kuro</text>
+<text id="14011022">%null%</text>
+<text id="14011023">%null%</text>
+<text id="14011024">%null%</text>
+<text id="14011025">%null%</text>
+<text id="14011026">%null%</text>
+<text id="14011027">%null%</text>
+<text id="14011028">%null%</text>
+<text id="14011029">%null%</text>
+<text id="14011030">Wake him</text>
+<text id="14011031">Let him be</text>
+<text id="14011032">%null%</text>
+<text id="14011033">%null%</text>
+<text id="14011034">%null%</text>
+<text id="14011035">%null%</text>
+<text id="14011036">%null%</text>
+<text id="14011037">%null%</text>
+<text id="14011038">%null%</text>
+<text id="14011039">%null%</text>
+<text id="14011040">Ask about the bottomless hole</text>
+<text id="14011041">Never mind</text>
+<text id="14011042">%null%</text>
+<text id="14011043">%null%</text>
+<text id="14011044">%null%</text>
+<text id="14011045">%null%</text>
+<text id="14011046">%null%</text>
+<text id="14011047">%null%</text>
+<text id="14011048">%null%</text>
+<text id="14011049">%null%</text>
+<text id="14011050">Give Sakura Droplet</text>
+<text id="14011051">Keep Sakura Droplet</text>
+<text id="14011052">%null%</text>
+<text id="14011053">%null%</text>
+<text id="14011054">%null%</text>
+<text id="14011055">%null%</text>
+<text id="14011056">%null%</text>
+<text id="14011057">%null%</text>
+<text id="14011058">%null%</text>
+<text id="14011059">%null%</text>
+<text id="14011060">Yes, I did</text>
+<text id="14011061">No, I did not</text>
+<text id="14012000">Obey the Iron Code, forsake Kuro</text>
+<text id="14012001">Break the Iron Code, stay loyal to Kuro</text>
+<text id="14012002">%null%</text>
+<text id="14012003">%null%</text>
+<text id="14012004">%null%</text>
+<text id="14012005">%null%</text>
+<text id="14012006">%null%</text>
+<text id="14012007">%null%</text>
+<text id="14012008">%null%</text>
+<text id="14012009">%null%</text>
+<text id="14012010">Obey the Iron Code, forsake Kuro</text>
+<text id="14012011">Change your mind.  Stay loyal to Kuro</text>
+<text id="14013000">Accept</text>
+<text id="14013001">Refuse</text>
+<text id="14013002">Apologize</text>
+<text id="14013003">Give thanks</text>
+<text id="14013004">Tell him of the Mortal Blade</text>
+<text id="14013005">Don't tell him</text>
+<text id="14013006">Accept</text>
+<text id="14013007">I do not wish to kill you</text>
+<text id="14014000">I hadn't heard</text>
+<text id="14014001">I know</text>
+<text id="14014002">Say nothing</text>
+<text id="14014003">I have an idea</text>
+<text id="14015000">Ask why she cries</text>
+<text id="14015001">Say nothing</text>
+<text id="14015002">I don't know</text>
+<text id="14015003">Say nothing</text>
+<text id="14016000">I'm not your son</text>
+<text id="14016001">Say nothing</text>
+<text id="14017000">"That night"?</text>
+<text id="14017001">Say nothing</text>
+<text id="14017002">Purchase information for &lt;?evntAcquittalPrice?&gt; sen</text>
+<text id="14017003">Not interested</text>
+<text id="14018000">Answer</text>
+<text id="14018001">Say nothing</text>
+<text id="14022000">I do</text>
+<text id="14022001">Never mind</text>
+<text id="14022002">Give Persimmon</text>
+<text id="14022003">Keep Persimmon</text>
+<text id="14022004">Greet her</text>
+<text id="14022005">Give Holy Chapter: Infested</text>
+<text id="14022006">Leave</text>
+<text id="14022007">Give Persimmons of the Serpent</text>
+<text id="14022008">Keep Persimmons of the Serpent</text>
+<text id="14022009">Give Sakura Droplet</text>
+<text id="14022010">Keep Sakura Droplet</text>
+<text id="14023000">Ask how to find Isshin</text>
+<text id="14023001">Say nothing</text>
+<text id="14023002">I agree.  Kuro cannot be allowed to die</text>
+<text id="14023003">No.  My lord's will is Severance</text>
+<text id="14023004">I've reconsidered.  Kuro must live</text>
+<text id="14023005">My mind is made up</text>
+<text id="14023006">Leave quietly</text>
+<text id="14023007">Ask what she is hiding</text>
+<text id="14024000">Shura's Wine</text>
+<text id="14024001">Don't know</text>
+<text id="14024050">Accept</text>
+<text id="14024051">Refuse</text>
+<text id="14025000">Give Great White Whisker</text>
+<text id="14025001">Keep Great White Whisker</text>
+<text id="14025002">Do nothing</text>
+<text id="14026000">Ask why he is crying</text>
+<text id="14026001">Say nothing</text>
+<text id="14026002">Give Red and White Pinwheel</text>
+<text id="14026003">Give White Pinwheel</text>
+<text id="14026004">Lure to Abandoned Dungeon</text>
+<text id="14026005">Tell him about Anayama the Peddler</text>
+<text id="14026006">Accept</text>
+<text id="14026007">Refuse</text>
+<text id="14026008">Suggest a travel destination</text>
+<text id="14026009">Do nothing</text>
+<text id="14026010">Leave</text>
+<text id="14027000">Greet him</text>
+<text id="14027001">Ignore him</text>
+<text id="14028000">Greet him</text>
+<text id="14028001">Ignore him</text>
+<text id="14028002">Give Water of the Palace</text>
+<text id="14028003">Keep Water of the Palace</text>
+<text id="14029000">Give Rice</text>
+<text id="14029001">Keep Rice</text>
+<text id="14029002">Do nothing</text>
+<text id="14030000">Greet him</text>
+<text id="14030001">Ignore him</text>
+<text id="14030002">Lure to Abandoned Dungeon</text>
+<text id="14030003">I have not</text>
+<text id="14030004">Don't mention Abandoned Dungeon</text>
+<text id="14031002">Yes</text>
+<text id="14031003">Say nothing</text>
+<text id="14031004">Give Red Carp Eyes</text>
+<text id="14031005">Keep Red Carp Eyes</text>
+<text id="14031006">Tell him about the medicine</text>
+<text id="14031007">Tell him nothing</text>
+<text id="14032000">Ask about the "special holy person"</text>
+<text id="14032001">Say nothing</text>
+<text id="14036000">Listen to his secret</text>
+<text id="14036001">Not interested</text>
+<text id="14047000">Yes</text>
+<text id="14047001">Say nothing</text>
+<text id="14070000">Ask what happened</text>
+<text id="14070001">Ask what year it is</text>
+<text id="14070002">Ask nothing</text>
+<text id="14070003">%null%</text>
+<text id="14070004">%null%</text>
+<text id="14070005">Yes</text>
+<text id="14070006">Say nothing</text>
+<text id="15000000">Talk</text>
+<text id="15000001">%null%</text>
+<text id="15000002">%null%</text>
+<text id="15000003">%null%</text>
+<text id="15000004">%null%</text>
+<text id="15000005">Leave</text>
+<text id="15000006">Leave</text>
+<text id="15000007">%null%</text>
+<text id="15000008">%null%</text>
+<text id="15000009">%null%</text>
+<text id="15000010">Purchase items</text>
+<text id="15000011">Sell items</text>
+<text id="15000012">Purchase Spirit Emblems</text>
+<text id="15000013">%null%</text>
+<text id="15000014">%null%</text>
+<text id="15000015">%null%</text>
+<text id="15000016">%null%</text>
+<text id="15000017">%null%</text>
+<text id="15000018">%null%</text>
+<text id="15000019">%null%</text>
+<text id="15000020">Ask about Hirata Estate</text>
+<text id="15000110">Leave</text>
+<text id="15000111">%null%</text>
+<text id="15000112">%null%</text>
+<text id="15000113">%null%</text>
+<text id="15000114">%null%</text>
+<text id="15000115">%null%</text>
+<text id="15000116">%null%</text>
+<text id="15000117">%null%</text>
+<text id="15000118">%null%</text>
+<text id="15000119">%null%</text>
+<text id="15000120">Rest</text>
+<text id="15000121">%null%</text>
+<text id="15000122">%null%</text>
+<text id="15000123">%null%</text>
+<text id="15000124">%null%</text>
+<text id="15000125">%null%</text>
+<text id="15000126">%null%</text>
+<text id="15000127">%null%</text>
+<text id="15000128">%null%</text>
+<text id="15000129">%null%</text>
+<text id="15000130">Select Recovery Tools</text>
+<text id="15000131">%null%</text>
+<text id="15000132">%null%</text>
+<text id="15000133">%null%</text>
+<text id="15000134">%null%</text>
+<text id="15000135">%null%</text>
+<text id="15000136">%null%</text>
+<text id="15000137">%null%</text>
+<text id="15000138">%null%</text>
+<text id="15000139">%null%</text>
+<text id="15000140">Purchase Spirit Emblems</text>
+<text id="15000141">%null%</text>
+<text id="15000142">%null%</text>
+<text id="15000143">%null%</text>
+<text id="15000144">%null%</text>
+<text id="15000145">%null%</text>
+<text id="15000146">%null%</text>
+<text id="15000147">%null%</text>
+<text id="15000148">%null%</text>
+<text id="15000149">%null%</text>
+<text id="15000150">Travel</text>
+<text id="15000170">Enhance Physical Attributes</text>
+<text id="15000171">%null%</text>
+<text id="15000172">%null%</text>
+<text id="15000173">%null%</text>
+<text id="15000174">%null%</text>
+<text id="15000175">%null%</text>
+<text id="15000176">%null%</text>
+<text id="15000177">%null%</text>
+<text id="15000178">%null%</text>
+<text id="15000179">%null%</text>
+<text id="15000180">Suppress stagnation</text>
+<text id="15000181">%null%</text>
+<text id="15000182">%null%</text>
+<text id="15000183">%null%</text>
+<text id="15000184">%null%</text>
+<text id="15000185">%null%</text>
+<text id="15000186">%null%</text>
+<text id="15000187">%null%</text>
+<text id="15000188">%null%</text>
+<text id="15000189">%null%</text>
+<text id="15000190">Start Playthrough #&lt;?nextLoopCount?&gt;</text>
+<text id="15000191">%null%</text>
+<text id="15000192">%null%</text>
+<text id="15000193">%null%</text>
+<text id="15000194">%null%</text>
+<text id="15000195">%null%</text>
+<text id="15000196">%null%</text>
+<text id="15000197">%null%</text>
+<text id="15000198">%null%</text>
+<text id="15000199">%null%</text>
+<text id="15000200">Next</text>
+<text id="15000201">Previous</text>
+<text id="15000250">Dragonrot Restoration</text>
+<text id="15000300">Acquire Skills</text>
+<text id="15000400">Change Deathblow Technique</text>
+<text id="15000401"> Equip &lt;?gdsparam@2100?&gt;</text>
+<text id="15000402"> Equip &lt;?gdsparam@2110?&gt;</text>
+<text id="15000403"> Equip &lt;?gdsparam@2120?&gt;</text>
+<text id="15000500">Treat to Ashina Sake</text>
+<text id="15000501">Treat to Unrefined Sake</text>
+<text id="15000502">Treat to Monkey Booze</text>
+<text id="15000503">Treat to Dragonspring Sake</text>
+<text id="15000504">Treat to &lt;?gdsparam@9104?&gt;</text>
+<text id="15000505">Treat to &lt;?gdsparam@9105?&gt;</text>
+<text id="15000506">%null%</text>
+<text id="15000507">%null%</text>
+<text id="15000508">%null%</text>
+<text id="15000509">%null%</text>
+<text id="15000510">Give Drink</text>
+<text id="15000511">%null%</text>
+<text id="15000512">%null%</text>
+<text id="15000513">%null%</text>
+<text id="15000514">%null%</text>
+<text id="15000515">%null%</text>
+<text id="15000516">%null%</text>
+<text id="15000517">%null%</text>
+<text id="15000518">%null%</text>
+<text id="15000519">%null%</text>
+<text id="15000520">Give Dragonrot Pellet</text>
+<text id="15000521">Take Blood Sample</text>
+<text id="15000600">Enhance Attack Power</text>
+<text id="15000601">Enhance Attack Power (Skill Points)</text>
+<text id="15000700">Confront Memory: Gyoubu</text>
+<text id="15000701">%null%</text>
+<text id="15000702">%null%</text>
+<text id="15000703">%null%</text>
+<text id="15000704">%null%</text>
+<text id="15000705">%null%</text>
+<text id="15000706">%null%</text>
+<text id="15000707">%null%</text>
+<text id="15000708">%null%</text>
+<text id="15000709">%null%</text>
+<text id="15000710">Confront Memory: Gyoubu</text>
+<text id="15000711">Confront Memory: Butterfly</text>
+<text id="15000712">Confront Memory: Genichiro </text>
+<text id="15000713">Confront Memory: Screen Monkeys</text>
+<text id="15000714">Confront Memory: Guardian Ape</text>
+<text id="15000715">Confront Memory: Corrupted Monk</text>
+<text id="15000716">Confront Memory: Great Shinobi, Owl</text>
+<text id="15000717">Confront Memory: Owl (Father)</text>
+<text id="15000718">Confront Memory: True Monk</text>
+<text id="15000719">Confront Memory: Divine Dragon</text>
+<text id="15000720">Confront Memory: Hate Demon</text>
+<text id="15000721">Confront Memory: Saint Isshin</text>
+<text id="15000722">Confront Memory: Isshin Ashina</text>
+<text id="15000723">Confront Memory: Headless Ape</text>
+<text id="15000724">%null%</text>
+<text id="15000725">%null%</text>
+<text id="15000726">%null%</text>
+<text id="15000727">%null%</text>
+<text id="15000728">%null%</text>
+<text id="15000729">%null%</text>
+<text id="15000730">Confront Memory: Inner Genichiro</text>
+<text id="15000731">Confront Memory: Inner Father</text>
+<text id="15000732">Confront Memory: Inner Isshin</text>
+<text id="15000800">Give Dragonrot Pellet</text>
+<text id="15000811">Collect blood sample</text>
+<text id="15000900">Reflection of Strength</text>
+<text id="15000901">Gauntlet of Strength</text>
+<text id="15000902">Change Form</text>
+<text id="15000903">%null%</text>
+<text id="15000904">%null%</text>
+<text id="15000905">%null%</text>
+<text id="15000906">%null%</text>
+<text id="15000907">%null%</text>
+<text id="15000908">%null%</text>
+<text id="15000909">%null%</text>
+<text id="15000910">Rest</text>
+<text id="15000911">Purchase Spirit Emblems</text>
+<text id="15000912">Battle extraordinary foe</text>
+<text id="15000913">Quit battle</text>
+<text id="15000914">%null%</text>
+<text id="15000915">%null%</text>
+<text id="15000916">%null%</text>
+<text id="15000917">%null%</text>
+<text id="15000918">%null%</text>
+<text id="15000919">%null%</text>
+<text id="15000920">Rest</text>
+<text id="15000921">Purchase Spirit Emblems</text>
+<text id="15000922">Battle next extraordinary foe</text>
+<text id="15000923">Quit battle</text>
+<text id="15001000">Gauntlet of Strength</text>
+<text id="15001001">Gauntlet of Strength: Divine Heir</text>
+<text id="15001002">Gauntlet of Strength: Shura</text>
+<text id="15001003">Gauntlet of Strength: Severance</text>
+<text id="15001004">Gauntlet of Strength: Mortal Journey</text>
+<text id="15010000">Fit New Prosthetic Tool</text>
+<text id="15010001">Upgrade Prosthetic Tool</text>
+<text id="15010002">Give Mechanical Barrel</text>
+<text id="15010003">Present Shinobi Prosthetic</text>
+<text id="15010300">Ask how you got here</text>
+<text id="15010301">Ask about your new left arm</text>
+<text id="15010302">Ask about the Divine Heir's blood</text>
+<text id="15010900">Avoid additional hardships</text>
+<text id="15011010">Show the Sakura Droplet</text>
+<text id="15011011">Give Sakura Droplet</text>
+<text id="15011012">About the flower</text>
+<text id="15011013">About the stone</text>
+<text id="15011014">About the sakura tree</text>
+<text id="15011015">Ask about the Divine Heir's blood</text>
+<text id="15011016">Ask about the Bell Charm</text>
+<text id="15013000">Training</text>
+<text id="15013001">Free Combat</text>
+<text id="15013002">Tell him of the Mortal Blade</text>
+<text id="15013003">Discuss the Mortal Blade</text>
+<text id="15013004">About the shrine</text>
+<text id="15013005">%null%</text>
+<text id="15013006">%null%</text>
+<text id="15013007">%null%</text>
+<text id="15013008">%null%</text>
+<text id="15013009">%null%</text>
+<text id="15013010">Free Combat (Fundamentals)</text>
+<text id="15013011">Free Combat (Applied)</text>
+<text id="15013012">%null%</text>
+<text id="15013013">%null%</text>
+<text id="15013014">%null%</text>
+<text id="15013015">%null%</text>
+<text id="15013016">%null%</text>
+<text id="15013017">%null%</text>
+<text id="15013018">%null%</text>
+<text id="15013019">%null%</text>
+<text id="15013020">Attacks</text>
+<text id="15013021">Deflect</text>
+<text id="15013022">Step Dodge</text>
+<text id="15013023">Consecutive Deflections</text>
+<text id="15013024">Vitality and Posture</text>
+<text id="15013025">Countering Thrust Attacks</text>
+<text id="15013026">Countering Sweep Attacks</text>
+<text id="15013027">Mikiri Counter</text>
+<text id="15013028">Vault Over</text>
+<text id="15013039">Leave</text>
+<text id="15014000">Purchase items</text>
+<text id="15017000">About business</text>
+<text id="15017001">Give key item</text>
+<text id="15017002">Reveal favourite dish</text>
+<text id="15017003">Purchase items</text>
+<text id="15017004">Sell items</text>
+<text id="15017005">Ask about Hirata Estate</text>
+<text id="15017006">Purchase information</text>
+<text id="15017007">Purchase information</text>
+<text id="15017008">%null%</text>
+<text id="15017009">Confirm purchased information</text>
+<text id="15022004">Request Rice</text>
+<text id="15022005">Give Holy Chapter: Infested</text>
+<text id="15022006">Give Persimmon</text>
+<text id="15022007">Present Sakura Droplet</text>
+<text id="15022008">Give Persimmon</text>
+<text id="15022009">Give Taro Persimmon</text>
+<text id="15023000">Create Dragonrot Pellet</text>
+<text id="15023001">Present Healing Gourd</text>
+<text id="15023002">Give Gourd Seed</text>
+<text id="15023003">Give Dragonrot Blood Sample</text>
+<text id="15023004">Ask about what you overheard</text>
+<text id="15023005">About Dragonrot</text>
+<text id="15023006">Isshin's parting words?</text>
+<text id="15024000">About Immortal Severance</text>
+<text id="15024001">Where can the Mortal Blade be found</text>
+<text id="15026002">Tell him about Anayama the Peddler</text>
+<text id="15027000">Ask about the village</text>
+<text id="15027001">Ask about the villagers</text>
+<text id="15027002">Ask about the village priest</text>
+<text id="15036000">Purchase items with scales</text>
+<text id="15048000">Purple kimono monkey?</text>
+<text id="15048001">Orange kimono monkey?</text>
+<text id="15048002">Green kimono monkey?</text>
+<text id="15100000">&lt;?null?&gt;</text>
+<text id="15100001">%null%</text>
+<text id="15100002">%null%</text>
+<text id="15100003">%null%</text>
+<text id="15100004">%null%</text>
+<text id="15100005">&lt;?null?&gt;</text>
+<text id="15100006">&lt;?null?&gt;</text>
+<text id="15100007">%null%</text>
+<text id="15100008">%null%</text>
+<text id="15100009">%null%</text>
+<text id="15100010">&lt;?null?&gt;</text>
+<text id="15100011">&lt;?null?&gt;</text>
+<text id="15100120">Rest at the Sculptor's Idol</text>
+<text id="15100140">Purchase Spirit Emblems</text>
+<text id="15100141">%null%</text>
+<text id="15100142">%null%</text>
+<text id="15100143">%null%</text>
+<text id="15100144">%null%</text>
+<text id="15100145">%null%</text>
+<text id="15100146">%null%</text>
+<text id="15100147">%null%</text>
+<text id="15100148">%null%</text>
+<text id="15100149">%null%</text>
+<text id="15100150">Travel to Idols previously communed with</text>
+<text id="15100170">Consume Prayer Beads to increase max Vitality and Posture</text>
+<text id="15100190">Start Playthrough #&lt;?nextLoopCount?&gt;</text>
+<text id="15100250">Restore those afflicted with Dragonrot</text>
+<text id="15100300">Spend Skill Points to acquire Skills</text>
+<text id="15100500">&lt;?null?&gt;</text>
+<text id="15100501">&lt;?null?&gt;</text>
+<text id="15100502">&lt;?null?&gt;</text>
+<text id="15100503">&lt;?null?&gt;</text>
+<text id="15100504">%null%</text>
+<text id="15100505">%null%</text>
+<text id="15100506">%null%</text>
+<text id="15100507">%null%</text>
+<text id="15100508">%null%</text>
+<text id="15100509">%null%</text>
+<text id="15100510">&lt;?null?&gt;</text>
+<text id="15100511">%null%</text>
+<text id="15100512">%null%</text>
+<text id="15100513">%null%</text>
+<text id="15100514">%null%</text>
+<text id="15100515">%null%</text>
+<text id="15100516">%null%</text>
+<text id="15100517">%null%</text>
+<text id="15100518">%null%</text>
+<text id="15100519">%null%</text>
+<text id="15100520">&lt;?null?&gt;</text>
+<text id="15100521">&lt;?null?&gt;</text>
+<text id="15100600">Confront Memory to
+enhance Attack Power</text>
+<text id="15100601">Enhance Attack Power with Skill Points</text>
+<text id="15100700">Confront Memory to
+enhance Attack Power</text>
+<text id="15100701">%null%</text>
+<text id="15100702">%null%</text>
+<text id="15100703">%null%</text>
+<text id="15100704">%null%</text>
+<text id="15100705">%null%</text>
+<text id="15100706">%null%</text>
+<text id="15100707">%null%</text>
+<text id="15100708">%null%</text>
+<text id="15100709">%null%</text>
+<text id="15100710">Enhance Attack Power by confronting Memory: Gyoubu Oniwa</text>
+<text id="15100711">Enhance Attack Power by confronting Memory: Lady Butterfly</text>
+<text id="15100712">Enhance Attack Power by confronting Memory: Genichiro </text>
+<text id="15100713">Enhance Attack Power by confronting Memory: Screen Monkeys</text>
+<text id="15100714">Enhance Attack Power by confronting Memory: Guardian Ape</text>
+<text id="15100715">Enhance Attack Power by confronting Memory: Corrupted Monk</text>
+<text id="15100716">Enhance Attack Power by confronting Memory: Great Shinobi</text>
+<text id="15100717">Enhance Attack Power by confronting Memory: Foster Father</text>
+<text id="15100718">Enhance Attack Power by confronting Memory: True Monk</text>
+<text id="15100719">Enhance Attack Power by confronting Memory: Divine Dragon</text>
+<text id="15100720">Enhance Attack Power by confronting Memory: Hatred Demon</text>
+<text id="15100721">Enhance Attack Power by confronting Memory: Saint Isshin</text>
+<text id="15100722">Enhance Attack Power by confronting Memory: Isshin Ashina</text>
+<text id="15100723">Enhance Attack Power by confronting Memory: Headless Ape</text>
+<text id="15100724">%null%</text>
+<text id="15100725">%null%</text>
+<text id="15100726">%null%</text>
+<text id="15100727">%null%</text>
+<text id="15100728">%null%</text>
+<text id="15100729">%null%</text>
+<text id="15100730">Enhance Attack Power by confronting Memory: Inner Genichiro</text>
+<text id="15100731">Enhance Attack Power by confronting Memory: Inner Father</text>
+<text id="15100732">Enhance Attack Power by confronting Memory: Inner Isshin</text>
+<text id="15100810">&lt;?null?&gt;</text>
+<text id="15100811">&lt;?null?&gt;</text>
+<text id="15100900">Relive battle with an extraordinary foe</text>
+<text id="15100901">Relive a gauntlet of battles with extraordinary foes</text>
+<text id="15100902">Alter Wolf's appearance</text>
+<text id="15100903">%null%</text>
+<text id="15100904">%null%</text>
+<text id="15100905">%null%</text>
+<text id="15100906">%null%</text>
+<text id="15100907">%null%</text>
+<text id="15100908">%null%</text>
+<text id="15100909">%null%</text>
+<text id="15100910">Rest at the Sculptor's Idol</text>
+<text id="15100911">Purchase Spirit Emblems</text>
+<text id="15100912">Relive battle memories with one extraordinary foe </text>
+<text id="15100913">Quit battle and return to original Sculptor's Idol</text>
+<text id="15100914">%null%</text>
+<text id="15100915">%null%</text>
+<text id="15100916">%null%</text>
+<text id="15100917">%null%</text>
+<text id="15100918">%null%</text>
+<text id="15100919">%null%</text>
+<text id="15100920">Rest at the Sculptor's Idol</text>
+<text id="15100921">Purchase Spirit Emblems</text>
+<text id="15100922">Select next extraordinary foe to battle</text>
+<text id="15100923">Quit battle and return to original Sculptor's Idol</text>
+<text id="15101001">Relive battle memories of the "Divine Heir" path, and face a gauntlet of extraordinary foes.</text>
+<text id="15101002">Relive battle memories of the "Shura" path and face a gauntlet of extraordinary foes.</text>
+<text id="15101003">Relive battle memories of the "Severance" path and face a gauntlet of extraordinary foes.</text>
+<text id="15101004">Relive battle memories and face a gauntlet of all extraordinary foes.</text>
+<text id="15110000">&lt;?null?&gt;</text>
+<text id="15110001">&lt;?null?&gt;</text>
+<text id="15110002">&lt;?null?&gt;</text>
+<text id="15110003">&lt;?null?&gt;</text>
+<text id="15110300">&lt;?null?&gt;</text>
+<text id="15110301">&lt;?null?&gt;</text>
+<text id="15110302">&lt;?null?&gt;</text>
+<text id="15110900">&lt;?null?&gt;</text>
+<text id="15111010">&lt;?null?&gt;</text>
+<text id="15111011">&lt;?null?&gt;</text>
+<text id="15111012">&lt;?null?&gt;</text>
+<text id="15111013">&lt;?null?&gt;</text>
+<text id="15111014">&lt;?null?&gt;</text>
+<text id="15111015">&lt;?null?&gt;</text>
+<text id="15111016">&lt;?null?&gt;</text>
+<text id="15113000">Train in the fundamentals of combat</text>
+<text id="15113001">Begin Free Combat</text>
+<text id="15113002">&lt;?null?&gt;</text>
+<text id="15113003">&lt;?null?&gt;</text>
+<text id="15113004">%null%</text>
+<text id="15113005">%null%</text>
+<text id="15113006">%null%</text>
+<text id="15113007">%null%</text>
+<text id="15113008">%null%</text>
+<text id="15113009">%null%</text>
+<text id="15113010">Begin Free Combat (Fundamentals)</text>
+<text id="15113011">Begin Free Combat (Applied)</text>
+<text id="15113012">%null%</text>
+<text id="15113013">%null%</text>
+<text id="15113014">%null%</text>
+<text id="15113015">%null%</text>
+<text id="15113016">%null%</text>
+<text id="15113017">%null%</text>
+<text id="15113018">%null%</text>
+<text id="15113019">Leave</text>
+<text id="15113020">Practice the basics of "Attacking"</text>
+<text id="15113021">Practice the basics of "Deflection"</text>
+<text id="15113022">Practice the basics of "Evasion"</text>
+<text id="15113023">Practice "Consecutive Deflections"</text>
+<text id="15113024">"Vitality and Posture" training</text>
+<text id="15113025">Practice "Countering Thrust Attacks"</text>
+<text id="15113026">Practice "Countering Sweep Attacks"</text>
+<text id="15113027">Practice "Mikiri Counter"</text>
+<text id="15113028">Practice "Vault Over"</text>
+<text id="15113039">Quit</text>
+<text id="15114000">&lt;?null?&gt;</text>
+<text id="15114001">&lt;?null?&gt;</text>
+<text id="15117000">&lt;?null?&gt;</text>
+<text id="15117001">&lt;?null?&gt;</text>
+<text id="15117002">&lt;?null?&gt;</text>
+<text id="15117003">&lt;?null?&gt;</text>
+<text id="15117004">&lt;?null?&gt;</text>
+<text id="15117005">&lt;?null?&gt;</text>
+<text id="15117006">&lt;?null?&gt;</text>
+<text id="15117007">&lt;?null?&gt;</text>
+<text id="15117008">&lt;?null?&gt;</text>
+<text id="15122000">&lt;?null?&gt;</text>
+<text id="15122001">&lt;?null?&gt;</text>
+<text id="15122002">&lt;?null?&gt;</text>
+<text id="15122003">&lt;?null?&gt;</text>
+<text id="15122004">&lt;?null?&gt;</text>
+<text id="15122005">&lt;?null?&gt;</text>
+<text id="15122006">&lt;?null?&gt;</text>
+<text id="15122007">&lt;?null?&gt;</text>
+<text id="15122008">&lt;?null?&gt;</text>
+<text id="15122009">&lt;?null?&gt;</text>
+<text id="15123000">&lt;?null?&gt;</text>
+<text id="15123001">&lt;?null?&gt;</text>
+<text id="15123002">&lt;?null?&gt;</text>
+<text id="15123003">&lt;?null?&gt;</text>
+<text id="15123004">&lt;?null?&gt;</text>
+<text id="15123005">&lt;?null?&gt;</text>
+<text id="15123006">&lt;?null?&gt;</text>
+<text id="15124000">&lt;?null?&gt;</text>
+<text id="15124001">&lt;?null?&gt;</text>
+<text id="15126000">&lt;?null?&gt;</text>
+<text id="15126001">&lt;?null?&gt;</text>
+<text id="15127000">&lt;?null?&gt;</text>
+<text id="15127001">&lt;?null?&gt;</text>
+<text id="15127002">&lt;?null?&gt;</text>
+<text id="15136000">&lt;?null?&gt;</text>
+<text id="15148000">&lt;?null?&gt;</text>
+<text id="15148001">&lt;?null?&gt;</text>
+<text id="15148002">&lt;?null?&gt;</text>
+<text id="50000210">Touch Remnant</text>
+<text id="50000500">Touch your created Remnant</text>
+<text id="80010400">Open</text>
+<text id="80010500">Climb inside</text>
+<text id="80010501">Climb out</text>
+</entries>
+</fmg>
