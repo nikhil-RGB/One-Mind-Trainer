@@ -14,4 +14,7 @@ This mod aslo increases the base vitality of Ishhin Ashina, and the posture reco
 
 Download the mods.zip file and extract it's contents into a "mod" folder, put the mod folder into your main game directory, and ensure your **"modengine"** is active and working correctly.
 
+### Additional sources:
+
+<a href="https://www.nexusmods.com/sekiro/mods/1063">View Nexus Page</a>
 
